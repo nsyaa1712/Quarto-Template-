@@ -3,17 +3,17 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
-    - images/author/Bakti.png
+    - images/author/erin.jpeg
     - epub-reader.html
     - assets/epub-reader.js
 
 book:
-  title: "Quarto Template"
-  author: "Bakti Siregar, M.Sc."
+  title: "Praktikum Introduction Statistic"
+  author: "Erin Neisya"
   date: today
   description: "Deskripsi singkat tentang buku"
   cover-image: images/Cover.png
-  repo-url: https://github.com/pakardata1/ebook-template-quarto.git
+  repo-url: https://github.com/nsyaa1712/Quarto-Template-.git
   repo-actions: [edit, issue]
   sidebar:
     tools:
@@ -52,7 +52,7 @@ format:
     include-after-body: assets/hover-preview.html
     include-in-header:
       text: |
-        <meta name="author" content="Bakti Siregar, M.Sc.">
+        <meta name="author" content="Erin Neisya">
   pdf:
     documentclass: book
     pdf-engine: xelatex

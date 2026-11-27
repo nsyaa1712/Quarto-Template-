@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Template",
+    "title": "Praktikum Introduction Statistic",
     "section": "",
-    "text": "Kata Pengantar\nDengan mengucap syukur kepada Tuhan Yang Maha Esa, saya sangat senang dapat mempersembahkan eBook “Quarto Template” kepada para pembaca dan pengguna. eBook ini disusun sebagai panduan praktis untuk membantu mahasiswa, dosen, peneliti, serta praktisi dalam memanfaatkan Quarto sebagai salah satu perangkat untuk menyusun, mengelola, dan menerbitkan dokumen secara profesional.\nQuarto merupakan perangkat open-source scientific and technical publishing yang memungkinkan pengguna mengintegrasikan teks, kode pemrograman, hasil analisis, visualisasi data, serta berbagai elemen pendukung lainnya ke dalam satu dokumen. Dengan Quarto, proses penulisan dan publikasi dapat dilakukan secara lebih terstruktur, reproducible, dan efisien dalam berbagai format keluaran, seperti HTML, PDF, Microsoft Word, serta format publikasi lainnya.\nContoh sitasi: tuliskan [@xie2015] untuk merujuk entri xie2015 di references/book.bib. Pada hasil render, sitasinya tampil seperti ini [1].\nMelalui eBook ini, pembaca akan diperkenalkan pada penggunaan template Quarto, mulai dari pengenalan struktur proyek, pengaturan konfigurasi, penulisan dokumen menggunakan Markdown, integrasi kode pemrograman, pengelolaan referensi, hingga proses rendering menjadi dokumen yang siap digunakan dan dipublikasikan.\nMateri disusun secara bertahap agar mudah dipahami dan dipraktikkan, termasuk oleh pengguna yang baru pertama kali mengenal Quarto. Template dan contoh yang disajikan diharapkan dapat menjadi referensi dalam mengembangkan berbagai kebutuhan dokumentasi akademik, laporan penelitian, modul pembelajaran, buku elektronik, maupun publikasi berbasis data.\nSaya berharap eBook ini dapat memberikan manfaat nyata dalam mendukung peningkatan literasi digital, produktivitas akademik, dan penerapan praktik penulisan ilmiah yang modern. Lebih dari sekadar panduan teknis, eBook ini diharapkan dapat mendorong pembaca untuk mengeksplorasi berbagai kemampuan Quarto dan mengembangkan template sesuai dengan kebutuhan masing-masing.\nSaya menyadari bahwa eBook ini masih memiliki ruang untuk penyempurnaan. Oleh karena itu, kritik, saran, dan masukan dari para pembaca sangat diharapkan sebagai bahan evaluasi untuk pengembangan edisi berikutnya.\nAkhir kata, semoga eBook ini dapat menjadi referensi yang bermanfaat dan memberikan kontribusi positif bagi dunia pendidikan, penelitian, dan pengembangan ilmu pengetahuan.\nBakti Siregar, M.Sc.\nPenulis",
+    "text": "Kata Pengantar\nDengan mengucap syukur kepada Tuhan Yang Maha Esa, saya sangat senang dapat mempersembahkan eBook “Quarto Template” kepada para pembaca dan pengguna. eBook ini disusun sebagai panduan praktis untuk membantu mahasiswa, dosen, peneliti, serta praktisi dalam memanfaatkan Quarto sebagai salah satu perangkat untuk menyusun, mengelola, dan menerbitkan dokumen secara profesional.\nQuarto merupakan perangkat open-source scientific and technical publishing yang memungkinkan pengguna mengintegrasikan teks, kode pemrograman, hasil analisis, visualisasi data, serta berbagai elemen pendukung lainnya ke dalam satu dokumen. Dengan Quarto, proses penulisan dan publikasi dapat dilakukan secara lebih terstruktur, reproducible, dan efisien dalam berbagai format keluaran, seperti HTML, PDF, Microsoft Word, serta format publikasi lainnya.\nContoh sitasi: tuliskan [@xie2015] untuk merujuk entri xie2015 di references/book.bib. Pada hasil render, sitasinya tampil seperti ini [1].\nMelalui eBook ini, pembaca akan diperkenalkan pada penggunaan template Quarto, mulai dari pengenalan struktur proyek, pengaturan konfigurasi, penulisan dokumen menggunakan Markdown, integrasi kode pemrograman, pengelolaan referensi, hingga proses rendering menjadi dokumen yang siap digunakan dan dipublikasikan.\nMateri disusun secara bertahap agar mudah dipahami dan dipraktikkan, termasuk oleh pengguna yang baru pertama kali mengenal Quarto. Template dan contoh yang disajikan diharapkan dapat menjadi referensi dalam mengembangkan berbagai kebutuhan dokumentasi akademik, laporan penelitian, modul pembelajaran, buku elektronik, maupun publikasi berbasis data.\nSaya berharap eBook ini dapat memberikan manfaat nyata dalam mendukung peningkatan literasi digital, produktivitas akademik, dan penerapan praktik penulisan ilmiah yang modern. Lebih dari sekadar panduan teknis, eBook ini diharapkan dapat mendorong pembaca untuk mengeksplorasi berbagai kemampuan Quarto dan mengembangkan template sesuai dengan kebutuhan masing-masing.\nSaya menyadari bahwa eBook ini masih memiliki ruang untuk penyempurnaan. Oleh karena itu, kritik, saran, dan masukan dari para pembaca sangat diharapkan sebagai bahan evaluasi untuk pengembangan edisi berikutnya.\nAkhir kata, semoga eBook ini dapat menjadi referensi yang bermanfaat dan memberikan kontribusi positif bagi dunia pendidikan, penelitian, dan pengembangan ilmu pengetahuan.\nErin Neisya\nPenulis",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -12,9 +12,9 @@
   {
     "objectID": "index.html#penulis",
     "href": "index.html#penulis",
-    "title": "Quarto Template",
+    "title": "Praktikum Introduction Statistic",
     "section": "Penulis",
-    "text": "Penulis\n\n\n\nFoto Bakti Siregar, M.Sc.\n\n\nBakti Siregar, M.Sc., CDS bekerja sebagai Dosen di Prodi Sains Data Institut Teknologi Sains Bandung. Beliau adalah meraih gelar Magister-nya dari Departemen Matematika Terapan (Applied Mathematics) National Sun Yat Sen University, Taiwan. Selain mengajar beliau juga pernah bekerja sebagai Data Scientist Freelance di perusahaan-perusahaan ternama seperti JNE, Samora Group, Pertamina, dan saat ini masih aktif sebagai Data Scientist Freelance di PT. Green City Traffic. Beliau memiliki antusiasme khusus dalam mengerjakan proyek (mengajar) Big Data Analytics, Machine Learning, Optimisasi, dan Analisis Time Series di bidang keuangan dan investasi. Keahlian utama yang dimilikinya adalah bahasa pemrograman Statistik seperti R Studio dan Python. Beliau juga sudah terbiasa dalam mengaplikasikan sistem basis data MySQL/NoSQL untuk manajemen data, serta mahir dalam menggunakan tools Big Data seperti Spark dan Hadoop. Beberapa project beliau dapat dilihat di link berikut: Rpubs, Github, Website, dan Kaggle.",
+    "text": "Penulis\n\n\n\nFoto Erin Neisya\n\n\nErin Neisya adalah mahasiswa Program Studi Sains Data di Institut Teknologi Sains Bandung (ITSB). Saya memilih program studi ini karena keahlian di bidang Sains Data sangat dibutuhkan di hampir seluruh sektor industri, sehingga memberikan keleluasaan untuk berkembang secara adaptif di tingkat nasional maupun global.\nSaat ini, saya aktif mempelajari statistika inferensial, analisis data, serta pemrograman menggunakan RStudio dan Python. Dokumentasi proyek dan catatan praktikum saya dapat dilihat melalui GitHub dan LinkedIn, atau hubungi saya langsung melalui Email.",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -22,7 +22,7 @@
   {
     "objectID": "index.html#ucapan-terima-kasih",
     "href": "index.html#ucapan-terima-kasih",
-    "title": "Quarto Template",
+    "title": "Praktikum Introduction Statistic",
     "section": "Ucapan Terima Kasih",
     "text": "Ucapan Terima Kasih\nProses penulisan Tempate eBook ini tidak terlepas dari dukungan berbagai pihak. Saya ingin mengucapkan terima kasih kepada:\n\nKeluarga yang selalu memberikan dukungan moral dan semangat tanpa henti.\nRekan-rekan dan Kolaborator yang telah memberikan masukan, saran, dan kritik yang konstruktif.\nInstitusi dan Organisasi, Khususnya ITSB yang telah menyediakan sumber daya dan fasilitas yang diperlukan selama proses penelitian dan penulisan.\n\nSaya berharap Template eBook ini dapat menjadi referensi yang bermanfaat dan memberikan inspirasi serta pengetahuan baru bagi pembaca. Semoga Ebook ini dapat memenuhi ekspektasi dan kebutuhan para pembaca dan semoga ilmu yang disampaikan dapat bermanfaat bagi semua.",
     "crumbs": [
@@ -32,9 +32,9 @@
   {
     "objectID": "index.html#masukan-saran",
     "href": "index.html#masukan-saran",
-    "title": "Quarto Template",
+    "title": "Praktikum Introduction Statistic",
     "section": "Masukan & Saran",
-    "text": "Masukan & Saran\nSemua masukan dan tanggapan Anda sangat berarti bagi kami untuk memperbaiki Ebook Quarto Template ini kedepannya. Bagi para pembaca/pengguna yang ingin menyampaikan masukan dan tanggapan, dipersilahkan melalui kontak dibawah ini!\nEmail: dsciencelabs@outlook.com\n\n\n\n\n[1] Y. Xie, Dynamic Documents with R and knitr, 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC, 2015.",
+    "text": "Masukan & Saran\nSemua masukan dan tanggapan Anda sangat berarti bagi kami untuk memperbaiki Ebook Quarto Template ini kedepannya. Bagi para pembaca/pengguna yang ingin menyampaikan masukan dan tanggapan, dipersilahkan melalui kontak dibawah ini!\nEmail: eringumay17@gmail.com\n\n\n\n\n[1] Y. Xie, Dynamic Documents with R and knitr, 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC, 2015.",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -44,7 +44,7 @@
     "href": "chapters/bab-1.html",
     "title": "1  Distribusi Sampling",
     "section": "",
-    "text": "1.1 Pendahuluan",
+    "text": "1.1 Tiga Distribusi yang Harus Dibedakan\nDistribusi sampling adalah konsep teoretis: dalam praktik kita hanya memiliki satu sampel. Namun dengan simulasi kita dapat melihatnya.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "chapters/bab-2.html",
     "title": "2  Hypothesis Testing",
     "section": "",
-    "text": "2.1 Pendahuluan",
+    "text": "2.1 Logika Uji Hipotesis",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
     ]
@@ -77,6 +77,716 @@
     "text": "[1] Y.\nXie, Dynamic documents with\nR and knitr, 2nd ed. Boca Raton, Florida: Chapman;\nHall/CRC, 2015.",
     "crumbs": [
       "Referensi"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#populasi-simulasi",
+    "href": "chapters/bab-1.html#populasi-simulasi",
+    "title": "1  Introduction to Statistics",
+    "section": "2.1 Populasi Simulasi",
+    "text": "2.1 Populasi Simulasi\nKita memakai populasi 20.000 mahasiswa dengan variabel waktu layar harian (jam) yang menjulur kanan – bentuk yang sengaja dipilih jauh dari lonceng.\n\nset.seed(909)\nN &lt;- 20000\npopulasi &lt;- round(rgamma(N, shape = 2, rate = 0.4), 2)\n\nmu &lt;- mean(populasi)\nsigma &lt;- sqrt(mean((populasi - mu)^2))\n\nc(N = N, mu = round(mu, 3), sigma = round(sigma, 3))\n\n        N        mu     sigma \n20000.000     5.010     3.551 \n\n\n\nset.seed(1)\n\nsatu_sampel &lt;- sample(populasi, 40)\nbanyak_rata &lt;- replicate(10000, mean(sample(populasi, 40)))\n\npar(mfrow = c(1, 3))\n\nhist(populasi, breaks = 40, col = \"#9ecae1\", border = \"white\",\n     main = \"Populasi (N = 20.000)\",\n     xlab = \"Jam per hari\", xlim = c(0, 20))\n\nhist(satu_sampel, breaks = 12, col = \"#fdae6b\", border = \"white\",\n     main = \"Satu sampel (n = 40)\",\n     xlab = \"Jam per hari\", xlim = c(0, 20))\n\nhist(banyak_rata, breaks = 40, col = \"#a1d99b\", border = \"white\",\n     main = \"Sampling distribution x-bar\",\n     xlab = \"Rata-rata sampel (n = 40)\")\n\n\n\n\n\n\n\n\n\npar(mfrow = c(1, 1))\n\nPopulasi dan satu sampel sama-sama menjulur kanan, tetapi distribusi rata-rata sampel jauh lebih sempit dan hampir berbentuk lonceng. Inilah inti pertemuan ini.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#pengaruh-ukuran-sampel",
+    "href": "chapters/bab-1.html#pengaruh-ukuran-sampel",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "2.1 Pengaruh Ukuran Sampel",
+    "text": "2.1 Pengaruh Ukuran Sampel\n\nset.seed(2)\nn_list &lt;- c(5, 20, 80)\n\npar(mfrow = c(1, 3))\n\nfor (nn in n_list) {\n  rata &lt;- replicate(5000, mean(sample(populasi, nn)))\n\n  hist(rata, breaks = 40, col = \"#a1d99b\", border = \"white\",\n       xlim = c(1, 10), freq = FALSE,\n       main = paste0(\"n = \", nn, \" (SE = \", round(sigma / sqrt(nn), 2), \")\"),\n       xlab = \"Rata-rata sampel\")\n\n  curve(dnorm(x, mu, sigma / sqrt(nn)),\n        add = TRUE, col = \"firebrick\", lwd = 2)\n\n  abline(v = mu, lty = 2)\n}\n\n\n\n\n\n\n\n\n\npar(mfrow = c(1, 1))\n\nKurva merah adalah distribusi normal dengan mean μ dan SD \\(\\frac{\\sigma}{\\sqrt{n}}\\). Semakin besar n: (1) distribusi semakin sempit, dan (2) bentuknya semakin mendekati normal meskipun populasinya menjulur kanan.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#demonstrasi-pada-tiga-bentuk-populasi",
+    "href": "chapters/bab-1.html#demonstrasi-pada-tiga-bentuk-populasi",
+    "title": "1  Distribusi Sampling",
+    "section": "1.4 Demonstrasi pada Tiga Bentuk Populasi",
+    "text": "1.4 Demonstrasi pada Tiga Bentuk Populasi\n\nset.seed(3)\n\npop_bentuk &lt;- list(\n  \"Seragam\" = runif(20000, 0, 10),\n  \"Menjulur kanan\" = rexp(20000, rate = 0.5),\n  \"Bimodal\" = c(rnorm(10000, 2, 0.8), rnorm(10000, 8, 0.8))\n)\n\nukuran &lt;- c(2, 5, 30)\n\npar(mfrow = c(4, 3), mar = c(3, 3, 2.5, 1))\n\nfor (nama in names(pop_bentuk)) {\n  hist(pop_bentuk[[nama]], breaks = 40,\n       col = \"#9ecae1\", border = \"white\",\n       main = paste(\"Populasi:\", nama),\n       xlab = \"\", ylab = \"\")\n}\n\nfor (nn in ukuran) {\n  for (nama in names(pop_bentuk)) {\n    rata &lt;- replicate(3000, mean(sample(pop_bentuk[[nama]], nn)))\n\n    hist(rata, breaks = 35, col = \"#a1d99b\",\n         border = \"white\",\n         main = paste0(nama, \", n = \", nn),\n         xlab = \"\", ylab = \"\")\n  }\n}\n\n\n\n\n\n\n\n\n\npar(mfrow = c(1, 1), mar = c(5, 4, 4, 2) + 0.1)\n\nBaris pertama adalah populasi; baris berikutnya adalah distribusi sampling \\(\\bar{x}\\) untuk n = 2, 5, dan 30. Populasi seragam mulai tampak mendekati lonceng pada n = 5; populasi bimodal masih bergelombang pada n = 2 tetapi mendekati lonceng pada n = 30; populasi menjulur kanan membutuhkan n lebih besar untuk mengurangi kemencengannya.\n\n1.4.1 Seberapa Besar “Cukup Besar”?\n\n\n\nBentuk populasi\nUkuran sampel yang biasanya cukup\n\n\n\n\nNormal\nBerapa pun (distribusi \\(\\bar{x}\\) tepat normal)\n\n\nSimetris, tidak normal\nSekitar 10–15\n\n\nMenceng sedang\nSekitar 30 (aturan praktis yang populer)\n\n\nSangat menceng atau banyak outlier\nBisa jauh lebih dari 30\n\n\n\n\nskew &lt;- function(x) {\n  d &lt;- x - mean(x)\n  mean(d^3) / mean(d^2)^1.5\n}\n\nset.seed(4)\n\nukuran_skew &lt;- c(2, 5, 10, 30, 100)\n\ndata.frame(\n  n = ukuran_skew,\n  Kemencengan_xbar = sapply(ukuran_skew, function(nn) {\n    round(skew(replicate(5000, mean(sample(populasi, nn)))), 3)\n  })\n)\n\n    n Kemencengan_xbar\n1   2            1.007\n2   5            0.581\n3  10            0.470\n4  30            0.220\n5 100            0.170\n\n\nKemencengan distribusi \\(\\bar{x}\\) menyusut kira-kira sebanding dengan \\(1/\\sqrt{n}\\).\n\n\n1.4.2 Menghitung Peluang dengan CLT\nContoh: Jika diambil sampel acak 40 mahasiswa, berapa peluang rata-rata waktu layarnya melebihi 5,5 jam?\nz = ̄x − μ σ/√ n P( ̄x &gt; 5,5) = P (Z &gt; z)\n\nse40 &lt;- sigma / sqrt(40)\nz_55 &lt;- (5.5 - mu) / se40\nc(SE = round(se40, 4), z = round(z_55, 3),\nPeluang_CLT = round(1 - pnorm(z_55), 4),\nPeluang_simulasi = round(mean(banyak_rata &gt; 5.5), 4))\n\n              SE                z      Peluang_CLT Peluang_simulasi \n          0.5615           0.8730           0.1913           0.1803 \n\n\nPerbandingan: peluang seorang mahasiswa (bukan rata-rata 40 orang) memiliki waktu layar di atas 5,5 jam jauh lebih besar:\n\nmean(populasi &gt; 5.5)\n\n[1] 0.35175\n\n\nIndividu sangat bervariasi, tetapi rata-rata dari banyak individu jauh lebih stabil.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#seberapa-besar-cukup-besar",
+    "href": "chapters/bab-1.html#seberapa-besar-cukup-besar",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "3.2 Seberapa Besar “Cukup Besar”?",
+    "text": "3.2 Seberapa Besar “Cukup Besar”?\n\n\n\nBentuk populasi\nUkuran sampel yang biasanya cukup\n\n\n\n\nNormal\nBerapa pun (distribusi \\(\\bar{x}\\) tepat normal)\n\n\nSimetris, tidak normal\nSekitar 10–15\n\n\nMenceng sedang\nSekitar 30 (aturan praktis yang populer)\n\n\nSangat menceng atau banyak outlier\nBisa jauh lebih dari 30\n\n\n\n\nskew &lt;- function(x) {\n  d &lt;- x - mean(x)\n  mean(d^3) / mean(d^2)^1.5\n}\n\nset.seed(4)\n\nukuran_skew &lt;- c(2, 5, 10, 30, 100)\n\ndata.frame(\n  n = ukuran_skew,\n  Kemencengan_xbar = sapply(ukuran_skew, function(nn) {\n    round(skew(replicate(5000, mean(sample(populasi, nn)))), 3)\n  })\n)\n\n    n Kemencengan_xbar\n1   2            1.007\n2   5            0.581\n3  10            0.470\n4  30            0.220\n5 100            0.170\n\n\nKemencengan distribusi \\(\\bar{x}\\) menyusut kira-kira sebanding dengan \\(1/\\sqrt{n}\\).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#menghitung-peluang-dengan-clt",
+    "href": "chapters/bab-1.html#menghitung-peluang-dengan-clt",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "3.3 Menghitung Peluang dengan CLT",
+    "text": "3.3 Menghitung Peluang dengan CLT\nContoh: Jika diambil sampel acak 40 mahasiswa, berapa peluang rata-rata waktu layarnya melebihi 5,5 jam?\nz = ̄x − μ σ/√ n P( ̄x &gt; 5,5) = P (Z &gt; z)\n\nse40 &lt;- sigma / sqrt(40)\nz_55 &lt;- (5.5 - mu) / se40\nc(SE = round(se40, 4), z = round(z_55, 3),\nPeluang_CLT = round(1 - pnorm(z_55), 4),\nPeluang_simulasi = round(mean(banyak_rata &gt; 5.5), 4))\n\n              SE                z      Peluang_CLT Peluang_simulasi \n          0.5615           0.8730           0.1913           0.1803 \n\n\nPerbandingan: peluang seorang mahasiswa (bukan rata-rata 40 orang) memiliki waktu layar di atas 5,5 jam jauh lebih besar:\n\nmean(populasi &gt; 5.5)\n\n[1] 0.35175\n\n\nIndividu sangat bervariasi, tetapi rata-rata dari banyak individu jauh lebih stabil.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#standard-error-vs-simpangan-baku",
+    "href": "chapters/bab-1.html#standard-error-vs-simpangan-baku",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "5.1 Standard Error vs Simpangan Baku",
+    "text": "5.1 Standard Error vs Simpangan Baku\n\n\n\n\n\n\n\n\nPerbandingan\nStandard Deviation (SD)\nStandard Error (SE)\n\n\n\n\nMengukur sebaran\nData individu\nStatistik (misalnya \\(\\bar{x}\\)) dari sampel ke sampel\n\n\nMenjawab\n“Seberapa beragam individu?”\n“Seberapa tepat taksiran kita?”\n\n\nJika n bertambah\nTetap (mendekati \\(\\sigma\\))\nMengecil\n\n\nRumus (mean)\n\\(s = \\sqrt{\\frac{\\sum (x_i-\\bar{x})^2}{n-1}}\\)\n\\(SE = \\frac{s}{\\sqrt{n}}\\)\n\n\n\nKarena σ biasanya tidak diketahui, SE ditaksir dengan s/√\nn (untuk mean) atau √ ̂p(1 − ̂p)/n\n(untuk proporsi).\n\nset.seed(6)\n\nn_besar &lt;- c(10, 40, 160, 640)\n\nknitr::kable(\n  t(sapply(n_besar, function(nn) {\n    hasil &lt;- replicate(2000, {\n      s &lt;- sample(populasi, nn)\n      c(sd(s), sd(s) / sqrt(nn))\n    })\n\n    c(\n      n = nn,\n      Rata_SD_sampel = round(mean(hasil[1, ]), 3),\n      Rata_SE_taksiran = round(mean(hasil[2, ]), 3)\n    )\n  })),\n  caption = paste0(\n    \"Rata-rata dari 2.000 sampel per n: SD stabil di sekitar sigma = \",\n    round(sigma, 2),\n    \", SE mengecil\"\n  )\n)\n\n\nRata-rata dari 2.000 sampel per n: SD stabil di sekitar sigma = 3.55, SE mengecil\n\n\nn\nRata_SD_sampel\nRata_SE_taksiran\n\n\n\n\n10\n3.348\n1.059\n\n\n40\n3.493\n0.552\n\n\n160\n3.537\n0.280\n\n\n640\n3.551\n0.140\n\n\n\n\n\nTable 8: Rata-rata dari 2.000 sampel per n: SD stabil di sekitar sigma = 3.55, SE mengecil\n\n\n\nn\nRata_SD_sampel\nRata_SE_taksiran\n\n\n\n\n10\n3.348\n1.059\n\n\n40\n3.493\n0.552\n\n\n160\n3.537\n0.280\n\n\n640\n3.551\n0.140",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#hukum-akar-kuadrat",
+    "href": "chapters/bab-1.html#hukum-akar-kuadrat",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "5.2 Hukum Akar Kuadrat",
+    "text": "5.2 Hukum Akar Kuadrat\nKarena SE ∝ 1/√\nn, untuk membagi dua SE dibutuhkan sampel empat kali lipat. Presisi semakin mahal: menambah n dari 100 ke 400 memberi keuntungan yang sama dengan dari 400 ke 1.600.\n\nn_seq &lt;- 10:1000\nplot(n_seq, sigma / sqrt(n_seq), type = \"l\", lwd = 2, col = \"#4C72B0\",\nxlab = \"Ukuran sampel (n)\", ylab = \"Standard error\",\nmain = \"SE Menurun Cepat di Awal, Lalu Melandai\")\npoints(c(100, 400), sigma / sqrt(c(100, 400)), pch = 16, col = \"firebrick\", cex =1.3)\ntext(c(100, 400), sigma / sqrt(c(100, 400)), pos = 3,\nlabels = paste0(\"n = \", c(100, 400), \"\\nSE = \", round(sigma / sqrt(c(100,400)), 2)))",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#point-estimate",
+    "href": "chapters/bab-1.html#point-estimate",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "6.1 Point Estimate",
+    "text": "6.1 Point Estimate\nPoint estimate adalah satu angka yang menaksir parameter.\n\n\n\nParameter\nPoint Estimate\nPenaksir Tak Bias?\n\n\n\n\n\\(\\mu\\)\n\\(\\bar{x}\\)\nYa\n\n\n\\(p\\)\n\\(\\hat{p}\\)\nYa\n\n\n\\(\\sigma^2\\)\n\\(s^2\\) (pembagi \\(n-1\\))\nYa\n\n\n\\(\\sigma\\)\n\\(s\\)\nSedikit bias (diabaikan dalam praktik)\n\n\n\nKelemahan point estimate: hampir pasti tidak tepat sama dengan parameter, dan tidak memberi tahu seberapa jauh melesetnya.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#confidence-interval-selang-kepercayaan",
+    "href": "chapters/bab-1.html#confidence-interval-selang-kepercayaan",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "6.2 Confidence Interval (Selang Kepercayaan)",
+    "text": "6.2 Confidence Interval (Selang Kepercayaan)\nSelang kepercayaan memberikan rentang nilai yang masuk akal bagi parameter: Point estimate ± nilai kritis ⏟⏟⏟⏟⏟⏟⏟ × SE margin of error\n\n6.2.1 CI untuk Mean, σ Diketahui (z)\n̄x ± zα/2 σ √ n\n\n\n\nTingkat Kepercayaan\nα\n\\(z_{\\alpha/2}\\)\n\n\n\n\n90%\n0,10\n1,645\n\n\n95%\n0,05\n1,960\n\n\n99%\n0,01\n2,576\n\n\n\n\nround(qnorm(c(0.95, 0.975, 0.995)), 3)\n\n[1] 1.645 1.960 2.576\n\n\n\n\n6.2.2 CI untuk Mean, σ Tidak Diketahui (t)\nDalam praktik σ hampir tidak pernah diketahui dan diganti s. Penggantian ini menambah ketidak- pastian, sehingga nilai kritis diambil dari distribusi t dengan derajat bebas df = n − 1:\n̄x ± tα/2, n−1 s √\n\ncurve(dnorm(x), -4, 4, lwd = 2, ylab = \"Kepadatan\", xlab = \"Nilai\",\nmain = \"Distribusi t Berekor Lebih Tebal dari Normal\")\ncurve(dt(x, df = 3), add = TRUE, lwd = 2, lty = 2, col = \"firebrick\")\ncurve(dt(x, df = 10), add = TRUE, lwd = 2, lty = 3, col = \"darkorange\")\nlegend(\"topright\", bty = \"n\", lwd = 2, lty = c(1, 2, 3), col = c(\"black\", \"firebrick\", \"darkorange\"),\nlegend = c(\"Normal baku (z)\", \"t, df = 3\", \"t, df = 10\"))\n\n\n\n\n\n\n\n\n\ndata.frame(\n  df = c(4, 9, 29, 99, Inf),\n  t_kritis_95 = round(\n    qt(0.975, df = c(4, 9, 29, 99, Inf)),\n    3\n  )\n)\n\n   df t_kritis_95\n1   4       2.776\n2   9       2.262\n3  29       2.045\n4  99       1.984\n5 Inf       1.960\n\n\nUntuk sampel kecil, nilai kritis t lebih besar daripada 1,96 (selang lebih lebar, “hukuman” karena menaksir 𝜎). Saat 𝑛 membesar, distribusi t mendekati normal. Distribusi t dibahas lebih dalam pada Pertemuan 11.\n\n\n6.2.3 Contoh Perhitungan\nSatu sampel 40 mahasiswa (satu_sampel) dipakai untuk menaksir rata-rata waktu layar seluruh mahasiswa.\n\nn1 &lt;- length(satu_sampel)\nxbar &lt;- mean(satu_sampel)\ns &lt;- sd(satu_sampel)\n\nt_krit &lt;- qt(0.975, df = n1 - 1)\nse_hat &lt;- s / sqrt(n1)\nmoe &lt;- t_krit * se_hat\n\nc(\n  n = n1,\n  x_bar = round(xbar, 3),\n  s = round(s, 3),\n  SE = round(se_hat, 3),\n  t_kritis = round(t_krit, 3),\n  MoE = round(moe, 3),\n  Bawah = round(xbar - moe, 3),\n  Atas = round(xbar + moe, 3)\n)\n\n       n    x_bar        s       SE t_kritis      MoE    Bawah     Atas \n  40.000    4.915    3.019    0.477    2.023    0.966    3.950    5.881 \n\n\n\nt.test(satu_sampel, conf.level = 0.95)$conf.int # fungsi bawaan R, hasil sam\n\n[1] 3.949947 5.881053\nattr(,\"conf.level\")\n[1] 0.95\n\n\nLaporan: “Rata-rata waktu layar mahasiswa diperkirakan 4.92 jam per hari, dengan selang kepercayaan 95% antara 3.95 dan 5.88 jam (n = 40).”\n\n\n6.2.4 CI untuk Proporsi\n𝑝 ± 𝑧𝛼/2√ ̂𝑝(1 − ̂𝑝) 𝑛 syarat: 𝑛 ̂𝑝 ≥ 10 dan 𝑛(1 − ̂𝑝) ≥ 1\n\nx_ya &lt;- 138; n_resp &lt;- 400 # 138 dari 400 responden memakai QRIS setiap hari\np_hat &lt;- x_ya / n_resp\nse_p &lt;- sqrt(p_hat * (1 - p_hat) / n_resp)\nmoe_p &lt;- qnorm(0.975) * se_p\nc(p_hat = p_hat, SE = round(se_p, 4), MoE = round(moe_p, 4),\nBawah = round(p_hat - moe_p, 4), Atas = round(p_hat + moe_p, 4))\n\n p_hat     SE    MoE  Bawah   Atas \n0.3450 0.0238 0.0466 0.2984 0.3916 \n\n\n\nc(n_p = n_resp * p_hat, n_1_min_p = n_resp * (1 - p_hat)) # syarat terpenuhi\n\n      n_p n_1_min_p \n      138       262 \n\n\n“Sekitar 34,5% responden memakai QRIS setiap hari, margin of error ± 4.7 poin persentase (kepercayaan 95%)” – format inilah yang sering dikutip media dari hasil survei.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#menafsirkan-selang-kepercayaan-dengan-benar",
+    "href": "chapters/bab-1.html#menafsirkan-selang-kepercayaan-dengan-benar",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "6.3 Menafsirkan Selang Kepercayaan dengan Benar",
+    "text": "6.3 Menafsirkan Selang Kepercayaan dengan Benar\nKepercayaan 95% adalah sifat prosedurnya, bukan satu selang tertentu: jika pengambilan sampel dan perhitungan selang diulang berkali-kali, sekitar 95% selang yang dihasilkan akan memuat 𝜇.\n\nset.seed(7)\n\nB &lt;- 100\n\nselang &lt;- t(replicate(B, {\n  s_i &lt;- sample(populasi, 40)\n  m &lt;- mean(s_i)\n  e &lt;- qt(0.975, 39) * sd(s_i) / sqrt(40)\n  c(bawah = m - e, atas = m + e)\n}))\n\nmemuat &lt;- selang[, \"bawah\"] &lt;= mu & selang[, \"atas\"] &gt;= mu\n\nplot(\n  NULL,\n  xlim = range(selang),\n  ylim = c(1, B),\n  xlab = \"Waktu layar (jam)\",\n  ylab = \"Sampel ke-\",\n  main = paste0(\"100 Selang Kepercayaan 95%: \", sum(memuat), \" memuat mu\")\n)\n\nsegments(\n  selang[, \"bawah\"], 1:B,\n  selang[, \"atas\"], 1:B,\n  col = ifelse(memuat, \"grey50\", \"firebrick\"),\n  lwd = ifelse(memuat, 1, 2.5)\n)\n\nabline(v = mu, col = \"#4C72B0\", lwd = 2)\n\n\n\n\n\n\n\n\nGaris merah adalah selang yang gagal memuat 𝜇. Kita tidak pernah tahu apakah selang kita termasuk yang merah – tetapi kita tahu prosedurnya berhasil sekitar 95% dari waktu\n\n\n\n\n\n\n\n\nPernyataan\nPenilaian\nPenjelasan\n\n\n\n\nKami 95% yakin bahwa selang 4,2–5,7 jam memuat rata-rata populasi.\nBenar\nDapat diterima sebagai bahasa sehari-hari.\n\n\n95% selang yang dibuat dengan prosedur ini akan memuat μ.\nBenar\nTafsiran paling tepat secara statistik.\n\n\nAda peluang 95% bahwa μ berada di antara 4,2 dan 5,7.\nSalah\nμ merupakan nilai tetap, bukan variabel acak.\n\n\n95% mahasiswa memiliki waktu layar antara 4,2 dan 5,7 jam.\nSalah\nCI membahas rata-rata populasi, bukan individu.\n\n\n95% rata-rata sampel lain akan jatuh di selang ini.\nSalah\nCI bukan rentang persebaran rata-rata sampel.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#faktor-yang-memengaruhi-lebar-selan",
+    "href": "chapters/bab-1.html#faktor-yang-memengaruhi-lebar-selan",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "6.4 Faktor yang Memengaruhi Lebar Selan",
+    "text": "6.4 Faktor yang Memengaruhi Lebar Selan\n\n\n\nFaktor Jika Dinaikkan\nPengaruh\nLebar Selang\n\n\n\n\nTingkat kepercayaan (90% → 99%)\nNilai kritis naik\nMelebar\n\n\nUkuran sampel (n)\nSE turun\nMenyempit\n\n\nVariabilitas data (s)\nSE naik\nMelebar\n\n\n\n\nlebar &lt;- function(n, s, conf) {\n  2 * qt(1 - (1 - conf) / 2, df = n - 1) * s / sqrt(n)\n}\n\ntabel_lebar &lt;- outer(\n  c(20, 80, 320),\n  c(0.90, 0.95, 0.99),\n  Vectorize(function(n, cf) lebar(n, s = 3, conf = cf))\n)\n\ntabel_lebar &lt;- round(tabel_lebar, 3)\n\ndimnames(tabel_lebar) &lt;- list(\n  c(\"n = 20\", \"n = 80\", \"n = 320\"),\n  c(\"90%\", \"95%\", \"99%\")\n)\n\nknitr::kable(\n  tabel_lebar,\n  caption = \"Lebar CI (s = 3) menurut ukuran sampel dan tingkat kepercayaan\"\n)\n\n\nLebar CI (s = 3) menurut ukuran sampel dan tingkat kepercayaan\n\n\n\n90%\n95%\n99%\n\n\n\n\nn = 20\n2.320\n2.808\n3.838\n\n\nn = 80\n1.116\n1.335\n1.771\n\n\nn = 320\n0.553\n0.660\n0.869",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#langkah-1-estimasi-proporsi",
+    "href": "chapters/bab-1.html#langkah-1-estimasi-proporsi",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "8.1 Langkah 1: Estimasi Proporsi",
+    "text": "8.1 Langkah 1: Estimasi Proporsi\n\np_hat_u &lt;- mean(terima_qris)\nse_u &lt;- sqrt(p_hat_u * (1 - p_hat_u) / n_umkm)\nci_u &lt;- p_hat_u + c(-1, 1) * qnorm(0.975) * se_u\nc(n_p = n_umkm * p_hat_u, n_1mp = n_umkm * (1 - p_hat_u)) # cek syarat\n\n  n_p n_1mp \n  165    85 \n\n\n\nround(c(p_hat = p_hat_u, SE = se_u, Bawah = ci_u[1], Atas = ci_u[2]), 4)\n\n p_hat     SE  Bawah   Atas \n0.6600 0.0300 0.6013 0.7187",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#langkah-2-estimasi-rata-rata-nilai-transaksi",
+    "href": "chapters/bab-1.html#langkah-2-estimasi-rata-rata-nilai-transaksi",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "8.2 Langkah 2: Estimasi Rata-rata Nilai Transaksi",
+    "text": "8.2 Langkah 2: Estimasi Rata-rata Nilai Transaksi\n\nhist(\n  nilai_trx / 1000,\n  breaks = 25,\n  col = \"#4C72B0\",\n  border = \"white\",\n  main = \"Nilai Transaksi QRIS Harian (UMKM Pengguna)\",\n  xlab = \"Ribu Rp per hari\",\n  ylab = \"Jumlah UMKM\"\n)\n\n\n\n\n\n\n\n\n\nci_trx &lt;- t.test(nilai_trx)$conf.int\nround(c(\n  n = length(nilai_trx),\n  Mean = mean(nilai_trx),\n  Median = median(nilai_trx),\n  SE = sd(nilai_trx) / sqrt(length(nilai_trx)),\n  Bawah = ci_trx[1],\n  Atas = ci_trx[2]\n))\n\n     n   Mean Median     SE  Bawah   Atas \n   165 553685 472000  24623 505065 602304",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#langkah-3-apakah-clt-dapat-diandalkan-di-sini",
+    "href": "chapters/bab-1.html#langkah-3-apakah-clt-dapat-diandalkan-di-sini",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "8.3 Langkah 3: Apakah CLT Dapat Diandalkan di Sini?",
+    "text": "8.3 Langkah 3: Apakah CLT Dapat Diandalkan di Sini?\nDatanya menjulur kanan. Kita periksa dengan bootstrap: mengambil ulang sampel (dengan pengembalian) dari data kita sendiri untuk meniru distribusi sampling .\n\nset.seed(11)\n\nboot_mean &lt;- replicate(\n  5000,\n  mean(sample(nilai_trx, replace = TRUE))\n)\n\nhist(\n  boot_mean / 1000,\n  breaks = 40,\n  col = \"#a1d99b\",\n  border = \"white\",\n  freq = FALSE,\n  main = \"Distribusi Bootstrap Rata-rata Nilai Transaksi\",\n  xlab = \"Ribu Rp per hari\"\n)\n\ncurve(\n  dnorm(\n    x,\n    mean(nilai_trx) / 1000,\n    sd(nilai_trx) / sqrt(length(nilai_trx)) / 1000\n  ),\n  add = TRUE,\n  col = \"firebrick\",\n  lwd = 2\n)\n\n\n\n\n\n\n\n\n\nround(quantile(boot_mean, c(0.025, 0.975))) # selang bootstrap persentil 95%\n\n  2.5%  97.5% \n506082 605874 \n\n\nDistribusi bootstrap ̄𝑥 hampir berbentuk lonceng dan selang bootstrap hampir sama dengan selang t. Dengan 𝑛 = 165 pengguna, CLT bekerja baik meskipun data individunya menceng.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#langkah-4-merencanakan-survei-lanjutan",
+    "href": "chapters/bab-1.html#langkah-4-merencanakan-survei-lanjutan",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "8.4 Langkah 4: Merencanakan Survei Lanjutan",
+    "text": "8.4 Langkah 4: Merencanakan Survei Lanjutan\nDinas ingin survei tahun depan menghasilkan margin of error proporsi ± 3% dan rata-rata transaksi ± Rp 30.000 (kepercayaan 95%).\n\nc(\n  n_untuk_proporsi = n_prop(E = 0.03, p = p_hat_u),\n  n_pengguna_untuk_mean = n_mean(sigma = sd(nilai_trx), E = 30000)\n)\n\n     n_untuk_proporsi n_pengguna_untuk_mean \n                  958                   427",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#pertanyaan-diskusi-dan-jawaban",
+    "href": "chapters/bab-1.html#pertanyaan-diskusi-dan-jawaban",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "8.5 Pertanyaan Diskusi dan Jawaban",
+    "text": "8.5 Pertanyaan Diskusi dan Jawaban\n\nBagaimana melaporkan hasil proporsi?\n“Diperkirakan proporsi UMKM kuliner yang menerima QRIS adalah sesuai hasil estimasi titik (\\(\\hat{p}\\)) dengan selang kepercayaan 95% (CI 95%) dan ukuran sampel \\(n = 250\\).” Kalimat pelaporan yang baik selalu memuat point estimate, selang kepercayaan, tingkat kepercayaan, dan ukuran sampel.\nMengapa median transaksi jauh di bawah mean, dan mana yang dilaporkan?\nDistribusinya menjulur kanan (karena ada segelintir UMKM dengan transaksi harian jauh lebih besar). Untuk menggambarkan UMKM yang tipikal, median lebih tepat. Namun jika dinas ingin menaksir total nilai transaksi (\\(\\text{mean} \\times \\text{jumlah UMKM pengguna}\\)), yang dibutuhkan justru mean beserta selangnya.\nApakah selang 95% berarti 95% UMKM bertransaksi di rentang tersebut?\nTidak. Selang kepercayaan tersebut menaksir rata-rata populasi (\\(\\mu\\)), bukan nilai transaksi tiap unit. Rentang nilai transaksi individu UMKM jauh lebih lebar—seperti yang terlihat pada histogram distribusi data.\nMengapa ukuran sampel untuk proporsi tidak dihitung dengan \\(p = 0,5\\)?\nJika sudah ada taksiran awal (\\(\\hat{p}\\)) dari survei atau studi sebelumnya, kita bisa memanfaatkannya untuk menghemat biaya dan ukuran sampel. Memakai \\(p = 0,5\\) bersifat paling konservatif (menghasilkan \\(n\\) terbesar), tetapi perbedaannya sering kali tidak terlalu jauh karena nilai \\(p(1 - p)\\) relatif landai di sekitar \\(0,5\\).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#latihan-mandiri-1",
+    "href": "chapters/bab-1.html#latihan-mandiri-1",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "9.1 Latihan Mandiri",
+    "text": "9.1 Latihan Mandiri\nKonteks: Mesin pengisi kopi bubuk dirancang mengisi kemasan dengan rata-rata 250 gram. Dari data historis, simpangan baku pengisian 𝜎 = 6 gram. Petugas QC mengambil sampel acak 36 kemasan.\n\nset.seed(99)\nberat &lt;- round(rnorm(36, mean = 248.5, sd = 6), 1)\nsummary(berat)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  230.3   244.9   249.1   247.4   251.4   256.9 \n\n\n\n9.1.1 Tugas 1: Hitung SE dan jelaskan maknanya\n\nsigma_k &lt;- 6; n_k &lt;- length(berat)\nsigma_k / sqrt(n_k)\n\n[1] 1\n\n\nJawaban: SE = 6/6 = 1 gram. Rata-rata dari 36 kemasan biasanya meleset sekitar 1 gram dari rata-rata sebenarnya – jauh lebih kecil daripada variasi berat antarkemasan (6 gram)\n\n\n9.1.2 Tugas 2: Jika mesin bekerja benar (𝜇 = 250), berapa peluang rata-rata 36\nkemasan kurang dari 248 gram?\n\npnorm(248, mean = 250, sd = sigma_k / sqrt(n_k))\n\n[1] 0.02275013\n\n\nJawaban: 𝑧 = (248 − 250)/1 = −2, sehingga peluangnya sekitar 0.0228. Kejadian ini jarang jika mesin bekerja benar – gagasan yang menjadi dasar uji hipotesis di Pertemuan 10.\n\n\n9.1.3 Tugas 3: Hitung CI 95% untuk rata-rata berat (𝜎 diketahui)\n\nci_z &lt;- mean(berat) + c(-1, 1) * qnorm(0.975) * sigma_k / sqrt(n_k)\nround(c(x_bar = mean(berat), Bawah = ci_z[1], Atas = ci_z[2]), 2)\n\n x_bar  Bawah   Atas \n247.40 245.44 249.36 \n\n\n\n\n9.1.4 Tugas 4: Hitung CI 95% jika 𝜎 dianggap tidak diketahui (t)\n\nround(t.test(berat)$conf.int, 2)\n\n[1] 245.25 249.56\nattr(,\"conf.level\")\n[1] 0.95\n\n\n\nround(c(s = sd(berat), t_kritis = qt(0.975, 35), z_kritis = qnorm(0.975)), 3)\n\n       s t_kritis z_kritis \n   6.366    2.030    1.960 \n\n\n\n\n9.1.5 Tugas 5: Tafsirkan hasilnya\nJawaban: Selang z dan selang t sangat mirip karena 𝑛 = 36 cukup besar (t kritis hanya sedikit di atas 1,96) dan 𝑠 dekat dengan 𝜎. Jika nilai 250 tidak berada di dalam selang, data memberi indikasi bahwa rata-rata pengisian mesin berbeda dari target – yang dapat dikonfirmasi dengan uji hipotesis. Hasil sampel ini: 250 berada di luar selang z.\n\n\n9.1.6 Tugas 6 (Tantangan): Ukuran sampel\nBerapa kemasan yang harus diambil agar margin of error CI 95% hanya ± 1 gram? Dan ± 0,5 gram?\n\nc(MoE_1 = n_mean(sigma = 6, E = 1), MoE_0.5 = n_mean(sigma = 6, E = 0.5))\n\n  MoE_1 MoE_0.5 \n    139     554 \n\n\nJawaban: 139 kemasan untuk ± 1 gram dan 554 kemasan untuk ± 0,5 gram – membagi dua margin of error membutuhkan sampel empat kali lipat.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#latihan-tambahan-self-check",
+    "href": "chapters/bab-1.html#latihan-tambahan-self-check",
+    "title": "1  Tiga Distribusi yang Harus Dibedakan",
+    "section": "9.2 Latihan Tambahan (Self-Check)",
+    "text": "9.2 Latihan Tambahan (Self-Check)\nKerjakan soal-soal berikut secara mandiri sebelum melihat kunci jawaban pada komentar kode. Soal A. Waktu tunggu layanan pelanggan berdistribusi menjulur kanan dengan 𝜇 = 8 menit dan 𝜎 = 6 menit. Untuk sampel acak 64 panggilan, tentukan mean, SE, dan bentuk distribusi sampling , lalu hitung ̄𝑥 𝑃( ̄𝑥 &gt; 9).\n\n# Kunci jawaban:\n# Mean = 8; SE = 6 / sqrt(64) = 0.75; bentuk mendekati normal (CLT, n = 64)\n1 - pnorm(9, mean = 8, sd = 0.75) # z = 1.33 -&gt; sekitar 0.0912\n\n[1] 0.09121122\n\n\nSoal B. Survei 1.200 pemilih menunjukkan 54% mendukung sebuah kebijakan. Hitung CI 95% dan margin of error-nya.\n\n# Kunci jawaban:\np &lt;- 0.54; n &lt;- 1200\nmoe &lt;- qnorm(0.975) * sqrt(p * (1 - p) / n) # 0.0282 -&gt; +- 2.8 poin persentase\np + c(-1, 1) * moe # 0.512 sampai 0.568\n\n[1] 0.511801 0.568199\n\n\nSoal C. Sepuluh pengukuran pH air limbah: 6,8; 7,1; 6,9; 7,4; 7,0; 6,7; 7,2; 7,3; 6,9; 7,1. Hitung CI 95% untuk rata-rata pH secara manual dengan distribusi t lalu periksa dengan t.test().\n\nph &lt;- c(6.8, 7.1, 6.9, 7.4, 7.0, 6.7, 7.2, 7.3, 6.9, 7.1)\n# Kunci jawaban:\n# x-bar = 7.04; s = 0.2171; SE = 0.0687; t(0.975, 9) = 2.262; MoE = 0.155\nmean(ph) + c(-1, 1) * qt(0.975, 9) * sd(ph) / sqrt(10) # 6.885 sampai 7.195\n\n[1] 6.881111 7.198889\n\nt.test(ph)$conf.int\n\n[1] 6.881111 7.198889\nattr(,\"conf.level\")\n[1] 0.95\n\n\nSoal D. Sebuah media menulis: “Dengan CI 95% [62%, 68%], berarti 95% warga memiliki tingkat kepuasan antara 62% dan 68%.” Perbaiki tafsiran ini.\n\n# Kunci jawaban:\n# Tafsiran keliru. Yang benar: \"Kami 95% yakin bahwa proporsi warga yang puas diseluruh\n# populasi berada antara 62% dan 68%.\" CI menaksir PARAMETER populasi (proporsiyang puas),\n# bukan rentang nilai individu.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#tujuan-pembelajaran",
+    "href": "chapters/bab-2.html#tujuan-pembelajaran",
+    "title": "2  Pendahuluan",
+    "section": "",
+    "text": "Merumuskan hipotesis nol (\\(H_0\\)) dan hipotesis alternatif (\\(H_1\\)), baik dua arah maupun satu arah.\nMenjelaskan tingkat signifikansi (\\(\\alpha\\)), statistik uji, nilai kritis, dan daerah penolakan.\nMenghitung dan menafsirkan p-value dengan benar.\nMengambil keputusan (tolak \\(H_0\\) atau gagal menolak \\(H_0\\)) dan menuliskan kesimpulan dalam konteks.\nMenjelaskan kesalahan Tipe I dan Tipe II, power, serta faktor yang memengaruhinya melalui simulasi.\nMembedakan signifikansi statistik dan signifikansi praktis, serta mengenali penyalahgunaan p-value.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#peta-alur-belajar",
+    "href": "chapters/bab-2.html#peta-alur-belajar",
+    "title": "2  Pendahuluan",
+    "section": "2.2 Peta Alur Belajar",
+    "text": "2.2 Peta Alur Belajar\n\n\n\n\n\n\n\n\nTahap\nBagian\nFokus\n\n\n\n\n1\nLogika Uji Hipotesis\nAnalogi pengadilan; “seberapa mengejutkan?”\n\n\n2\nMerumuskan Hipotesis\n\\(H_0\\), \\(H_1\\); dua arah dan satu arah\n\n\n3\nKomponen Uji\n\\(\\alpha\\), statistik uji, nilai kritis, p-value\n\n\n4\nProsedur Lima Langkah\nContoh lengkap dua arah dan satu arah\n\n\n5\nHubungan dengan CI\nUji dua arah vs selang kepercayaan\n\n\n6\nKesalahan Tipe I dan II\nSimulasi \\(\\alpha\\), \\(\\beta\\), dan power\n\n\n7\nMenafsirkan dengan Bijak\nSignifikansi praktis; miskonsepsi; p-hacking\n\n\n8–9\nStudi Kasus & Latihan Mandiri\nPemantauan kepatuhan baku mutu\n\n\n10–12\nReferensi Praktis\nKesalahan umum, cheat sheet R, glosarium\n\n\n\nPraktikum ini hanya menggunakan base R (ditambah knitr::kable untuk tabel, yang sudah tersedia bersama Quarto).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#ilustrasi-apakah-mesin-pengisi-masih-tepat",
+    "href": "chapters/bab-2.html#ilustrasi-apakah-mesin-pengisi-masih-tepat",
+    "title": "2  Pendahuluan",
+    "section": "3.1 Ilustrasi: Apakah Mesin Pengisi Masih Tepat?",
+    "text": "3.1 Ilustrasi: Apakah Mesin Pengisi Masih Tepat?\nMelanjutkan latihan Pertemuan 9: mesin kopi bubuk seharusnya mengisi rata-rata 250 gram dengan \\(\\sigma = 6\\) gram. Sampel 36 kemasan menghasilkan \\(\\bar{x} = 247{,}6\\) gram. Apakah mesin perlu dikalibrasi, atau selisih 2,4 gram itu sekadar kebetulan sampling?\nJika mesin benar (\\(\\mu = 250\\)), maka menurut CLT \\(\\bar{x} \\sim N(250,\\ 6/\\sqrt{36} = 1)\\). Kita lihat seberapa “jauh” 247,6 dari distribusi tersebut:\n\nmu0 &lt;- 250; sigma &lt;- 6; n &lt;- 36; xbar &lt;- 247.6\nse &lt;- sigma / sqrt(n)\nset.seed(10)\nxbar_jika_H0 &lt;- replicate(100000, mean(rnorm(n, mu0, sigma)))\nhist(xbar_jika_H0, breaks = 60, col = \"#c6dbef\", border = \"white\", freq = FALSE,\n     main = \"Distribusi x-bar JIKA mesin bekerja benar (mu = 250)\",\n     xlab = \"Rata-rata 36 kemasan (gram)\")\nabline(v = c(xbar, 2 * mu0 - xbar), col = \"firebrick\", lwd = 2, lty = c(1, 2))\n\n\n\n\n\n\n\nGambar 3.1: Distribusi rata-rata sampel jika H0 benar\n\n\n\n\n\n\nmean(abs(xbar_jika_H0 - mu0) &gt;= abs(xbar - mu0))  # seberapa sering selisih sebesar ini terjadi\n\n[1] 0.01579\n\n\nJika mesin benar, rata-rata yang meleset 2,4 gram atau lebih (ke arah mana pun) hanya terjadi sekitar 1.6% dari waktu. Angka inilah yang disebut p-value. Karena sangat jarang, kita punya alasan kuat untuk meragukan bahwa mesin bekerja benar.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#hipotesis-nol-dan-alternatif",
+    "href": "chapters/bab-2.html#hipotesis-nol-dan-alternatif",
+    "title": "2  Pendahuluan",
+    "section": "4.1 Hipotesis Nol dan Alternatif",
+    "text": "4.1 Hipotesis Nol dan Alternatif\n\n\n\n\n\n\n\n\n\nHipotesis Nol (\\(H_0\\))\nHipotesis Alternatif (\\(H_1\\) atau \\(H_a\\))\n\n\n\n\nIsi\n“Tidak ada efek, perbedaan, atau perubahan”; status quo\nKlaim yang ingin dibuktikan peneliti\n\n\nTanda\nSelalu memuat kesamaan: \\(=\\), \\(\\le\\), atau \\(\\ge\\)\n\\(\\ne\\), \\(&gt;\\), atau \\(&lt;\\)\n\n\nPosisi dalam uji\nDiasumsikan benar selama perhitungan\nDiterima hanya jika bukti kuat\n\n\n\nAturan penting: hipotesis selalu dinyatakan tentang parameter populasi (\\(\\mu\\), \\(p\\), \\(\\sigma\\)), bukan statistik sampel. Menulis “\\(H_0: \\bar{x} = 250\\)” adalah keliru, karena \\(\\bar{x}\\) sudah kita ketahui.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#tiga-bentuk-hipotesis",
+    "href": "chapters/bab-2.html#tiga-bentuk-hipotesis",
+    "title": "2  Pendahuluan",
+    "section": "4.2 Tiga Bentuk Hipotesis",
+    "text": "4.2 Tiga Bentuk Hipotesis\n\n\n\n\n\n\n\n\n\n\nBentuk\n\\(H_0\\)\n\\(H_1\\)\nDaerah penolakan\nContoh pertanyaan\n\n\n\n\nDua arah\n\\(\\mu = \\mu_0\\)\n\\(\\mu \\ne \\mu_0\\)\nKedua ekor\n“Apakah rata-rata pengisian berbeda dari 250 g?”\n\n\nSatu arah kanan\n\\(\\mu \\le \\mu_0\\)\n\\(\\mu &gt; \\mu_0\\)\nEkor kanan\n“Apakah rata-rata TSS melebihi baku mutu?”\n\n\nSatu arah kiri\n\\(\\mu \\ge \\mu_0\\)\n\\(\\mu &lt; \\mu_0\\)\nEkor kiri\n“Apakah umur baterai kurang dari klaim 20 jam?”",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#menerjemahkan-kalimat-menjadi-hipotesis",
+    "href": "chapters/bab-2.html#menerjemahkan-kalimat-menjadi-hipotesis",
+    "title": "2  Pendahuluan",
+    "section": "4.3 Menerjemahkan Kalimat Menjadi Hipotesis",
+    "text": "4.3 Menerjemahkan Kalimat Menjadi Hipotesis\n\n\n\nKata kunci dalam klaim\nTanda di \\(H_1\\)\n\n\n\n\nberbeda, berubah, tidak sama\n\\(\\ne\\)\n\n\nlebih dari, meningkat, melebihi, lebih baik\n\\(&gt;\\)\n\n\nkurang dari, menurun, lebih rendah, lebih cepat (waktu)\n\\(&lt;\\)\n\n\n\n\n\n\n\n\n\nPeringatan\n\n\n\nTentukan arah sebelum melihat data. Memilih uji satu arah setelah melihat arah selisih pada data adalah kecurangan: p-value menjadi separuhnya secara tidak sah. Jika ragu, gunakan uji dua arah.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#tingkat-signifikansi-alpha",
+    "href": "chapters/bab-2.html#tingkat-signifikansi-alpha",
+    "title": "2  Pendahuluan",
+    "section": "5.1 Tingkat Signifikansi (\\(\\alpha\\))",
+    "text": "5.1 Tingkat Signifikansi (\\(\\alpha\\))\n\\(\\alpha\\) adalah batas peluang kesalahan Tipe I yang bersedia kita tanggung – peluang menolak \\(H_0\\) padahal \\(H_0\\) benar. Nilai yang umum: 0,05; 0,01; atau 0,10. \\(\\alpha\\) ditetapkan sebelum data dianalisis, berdasarkan seberapa mahal akibat kesalahan Tipe I.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#statistik-uji",
+    "href": "chapters/bab-2.html#statistik-uji",
+    "title": "2  Pendahuluan",
+    "section": "5.2 Statistik Uji",
+    "text": "5.2 Statistik Uji\nStatistik uji mengukur seberapa jauh estimasi sampel dari nilai \\(H_0\\), dalam satuan standard error:\n\\[\n\\text{statistik uji} = \\frac{\\text{estimasi} - \\text{nilai di } H_0}{SE}\n\\qquad\nz = \\frac{\\bar{x} - \\mu_0}{\\sigma/\\sqrt{n}}\n\\]\n\nz_hitung &lt;- (xbar - mu0) / se\nz_hitung\n\n[1] -2.4\n\n\nRata-rata sampel berada 2.4 standard error di bawah nilai yang diklaim.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#nilai-kritis-dan-daerah-penolakan",
+    "href": "chapters/bab-2.html#nilai-kritis-dan-daerah-penolakan",
+    "title": "2  Pendahuluan",
+    "section": "5.3 Nilai Kritis dan Daerah Penolakan",
+    "text": "5.3 Nilai Kritis dan Daerah Penolakan\nNilai kritis adalah batas yang memisahkan daerah “tidak mengejutkan” dan daerah penolakan, ditentukan oleh \\(\\alpha\\) dan arah uji.\n\nalpha &lt;- 0.05\nc(Dua_arah = qnorm(1 - alpha / 2), Kanan = qnorm(1 - alpha), Kiri = qnorm(alpha))\n\n Dua_arah     Kanan      Kiri \n 1.959964  1.644854 -1.644854 \n\n\n\ngambar_daerah &lt;- function(arah, judul, alpha = 0.05) {\n  x &lt;- seq(-4, 4, length.out = 400)\n  plot(x, dnorm(x), type = \"l\", lwd = 2, main = judul, xlab = \"z\", ylab = \"\", yaxt = \"n\")\n  arsir &lt;- function(a, b) polygon(c(a, seq(a, b, length.out = 100), b),\n                                  c(0, dnorm(seq(a, b, length.out = 100)), 0),\n                                  col = rgb(0.8, 0.2, 0.2, 0.5), border = NA)\n  if (arah == \"dua\")    { k &lt;- qnorm(1 - alpha / 2); arsir(-4, -k); arsir(k, 4) }\n  if (arah == \"kanan\")  { k &lt;- qnorm(1 - alpha); arsir(k, 4) }\n  if (arah == \"kiri\")   { k &lt;- qnorm(alpha); arsir(-4, k) }\n}\npar(mfrow = c(1, 3))\ngambar_daerah(\"dua\", \"Dua arah (1,96)\")\ngambar_daerah(\"kanan\", \"Kanan (1,645)\")\ngambar_daerah(\"kiri\", \"Kiri (-1,645)\")\npar(mfrow = c(1, 1))\n\n\n\n\n\n\n\nGambar 5.1: Daerah penolakan uji dua arah, kanan, dan kiri\n\n\n\n\n\nDaerah merah adalah daerah penolakan, luasnya \\(\\alpha = 0{,}05\\). Pada uji dua arah, \\(\\alpha\\) dibagi dua ke kedua ekor.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#p-value",
+    "href": "chapters/bab-2.html#p-value",
+    "title": "2  Pendahuluan",
+    "section": "5.4 P-Value",
+    "text": "5.4 P-Value\n\n\n\n\n\n\nPenting\n\n\n\nP-value adalah peluang memperoleh statistik uji seekstrem atau lebih ekstrem daripada yang teramati, dengan asumsi \\(H_0\\) benar.\n\n\n\n\n\nArah uji\nP-value\n\n\n\n\nDua arah\n\\(2 \\times P(Z \\ge \\lvert z \\rvert)\\)\n\n\nKanan\n\\(P(Z \\ge z)\\)\n\n\nKiri\n\\(P(Z \\le z)\\)\n\n\n\n\np_dua &lt;- 2 * (1 - pnorm(abs(z_hitung)))\np_dua\n\n[1] 0.01639507\n\n\n\nx &lt;- seq(-4, 4, length.out = 400)\nplot(x, dnorm(x), type = \"l\", lwd = 2, xlab = \"z\", ylab = \"\", yaxt = \"n\",\n     main = paste0(\"P-value dua arah = luas kedua ekor = \", round(p_dua, 4)))\nfor (bts in list(c(-4, -abs(z_hitung)), c(abs(z_hitung), 4))) {\n  xs &lt;- seq(bts[1], bts[2], length.out = 100)\n  polygon(c(bts[1], xs, bts[2]), c(0, dnorm(xs), 0), col = rgb(0.2, 0.4, 0.8, 0.5), border = NA)\n}\nabline(v = c(-1.96, 1.96), lty = 2, col = \"firebrick\")\ntext(z_hitung, 0.05, labels = paste0(\"z = \", round(z_hitung, 2)), pos = 3)\n\n\n\n\n\n\n\nGambar 5.2: P-value dua arah sebagai luas kedua ekor",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#keputusan-dua-pendekatan-yang-setara",
+    "href": "chapters/bab-2.html#keputusan-dua-pendekatan-yang-setara",
+    "title": "2  Pendahuluan",
+    "section": "5.5 Keputusan: Dua Pendekatan yang Setara",
+    "text": "5.5 Keputusan: Dua Pendekatan yang Setara\n\n\n\n\n\n\n\n\nPendekatan\nTolak \\(H_0\\) jika\nContoh mesin kopi\n\n\n\n\nNilai kritis\nStatistik uji jatuh di daerah penolakan\n\\(\\lvert z \\rvert = 2{,}4 &gt; 1{,}96 \\Rightarrow\\) tolak\n\n\nP-value\np-value \\(\\le \\alpha\\)\n\\(0{,}0164 \\le 0{,}05 \\Rightarrow\\) tolak\n\n\n\nKedua pendekatan selalu memberi keputusan yang sama. Pendekatan p-value lebih informatif karena menunjukkan seberapa kuat buktinya, bukan sekadar lolos atau tidak.\n\n\n\nP-value\nKekuatan bukti melawan \\(H_0\\) (pedoman kasar)\n\n\n\n\n\\(&gt; 0{,}10\\)\nLemah/tidak ada\n\n\n\\(0{,}05\\)–\\(0{,}10\\)\nLemah–sedang\n\n\n\\(0{,}01\\)–\\(0{,}05\\)\nCukup kuat\n\n\n\\(&lt; 0{,}01\\)\nSangat kuat\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n“Gagal menolak \\(H_0\\)” tidak sama dengan “\\(H_0\\) benar”. Sama seperti “tidak terbukti bersalah” tidak berarti “terbukti tidak bersalah”. Bisa jadi efeknya memang ada tetapi sampel kita terlalu kecil untuk mendeteksinya.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#contoh-1-dua-arah-mesin-pengisi-kopi",
+    "href": "chapters/bab-2.html#contoh-1-dua-arah-mesin-pengisi-kopi",
+    "title": "2  Pendahuluan",
+    "section": "6.1 Contoh 1 (Dua Arah): Mesin Pengisi Kopi",
+    "text": "6.1 Contoh 1 (Dua Arah): Mesin Pengisi Kopi\n\n\\(H_0: \\mu = 250\\) gram (mesin tepat); \\(H_1: \\mu \\ne 250\\) gram (mesin perlu dikalibrasi).\n\\(\\alpha = 0{,}05\\).\n\\(\\sigma\\) diketahui (6 g), \\(n = 36\\), uji z: \\(z = (247{,}6 - 250)/1 = -2{,}4\\).\n\n\nuji_z(xbar = 247.6, mu0 = 250, sigma = 6, n = 36, arah = \"dua\")\n\n     z z_kritis p_value keputusan\n1 -2.4     1.96  0.0164  Tolak H0\n\n\n\n\\(\\lvert z \\rvert = 2{,}4 &gt; 1{,}96\\) dan p-value \\(\\approx 0{,}016 &lt; 0{,}05 \\Rightarrow\\) tolak \\(H_0\\).\nKesimpulan: pada taraf signifikansi 5%, terdapat bukti yang cukup bahwa rata-rata pengisian mesin berbeda dari 250 gram (data menunjukkan cenderung kurang). Mesin sebaiknya diperiksa dan dikalibrasi.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#contoh-2-satu-arah-kanan-klaim-waktu-pengiriman",
+    "href": "chapters/bab-2.html#contoh-2-satu-arah-kanan-klaim-waktu-pengiriman",
+    "title": "2  Pendahuluan",
+    "section": "6.2 Contoh 2 (Satu Arah Kanan): Klaim Waktu Pengiriman",
+    "text": "6.2 Contoh 2 (Satu Arah Kanan): Klaim Waktu Pengiriman\nSebuah layanan logistik mengklaim rata-rata waktu pengirimannya paling lama 48 jam. Asosiasi konsumen curiga waktunya lebih lama. Data historis menunjukkan \\(\\sigma = 10\\) jam. Sampel 50 pengiriman menghasilkan \\(\\bar{x} = 50{,}1\\) jam.\n\n\\(H_0: \\mu \\le 48\\) (klaim benar); \\(H_1: \\mu &gt; 48\\) (klaim tidak benar – lebih lama).\n\\(\\alpha = 0{,}05\\).\n\n\nuji_z(xbar = 50.1, mu0 = 48, sigma = 10, n = 50, arah = \"kanan\")\n\n       z z_kritis p_value        keputusan\n1 1.4849   1.6449 0.06878 Gagal menolak H0\n\n\nKesimpulan: p-value \\(\\approx 0{,}069 &gt; 0{,}05\\), sehingga gagal menolak \\(H_0\\). Pada taraf 5%, bukti belum cukup untuk menyatakan rata-rata waktu pengiriman melebihi 48 jam. Ini tidak membuktikan klaim perusahaan benar; dengan p-value 0,07, ada indikasi lemah yang layak ditindaklanjuti dengan sampel lebih besar.\nPerhatikan: jika asosiasi konsumen memakai uji dua arah, p-value-nya menjadi dua kali lipat (sekitar 0,14). Arah uji harus ditentukan dari pertanyaan penelitian sebelum melihat data.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#tabel-keputusan",
+    "href": "chapters/bab-2.html#tabel-keputusan",
+    "title": "2  Pendahuluan",
+    "section": "8.1 Tabel Keputusan",
+    "text": "8.1 Tabel Keputusan\n\n\n\n\n\n\n\n\n\n\\(H_0\\) benar\n\\(H_0\\) salah\n\n\n\n\nTolak \\(H_0\\)\nKesalahan Tipe I (false positive), peluang \\(= \\alpha\\)\nKeputusan benar, peluang \\(=\\) power \\(= 1-\\beta\\)\n\n\nGagal menolak \\(H_0\\)\nKeputusan benar, peluang \\(= 1-\\alpha\\)\nKesalahan Tipe II (false negative), peluang \\(= \\beta\\)\n\n\n\n\n\n\n\n\n\n\n\nKonteks\nKesalahan Tipe I\nKesalahan Tipe II\n\n\n\n\nMesin pengisi (\\(H_0\\): mesin tepat)\nMenghentikan produksi untuk kalibrasi padahal mesin baik\nMesin terus mengisi kurang; konsumen dirugikan\n\n\nTes penyakit (\\(H_0\\): sehat)\nOrang sehat didiagnosis sakit\nOrang sakit tidak terdeteksi\n\n\nFilter spam (\\(H_0\\): bukan spam)\nEmail penting masuk folder spam\nSpam lolos ke kotak masuk\n\n\nUji A/B (\\(H_0\\): desain baru tidak lebih baik)\nMeluncurkan desain yang sebenarnya tidak lebih baik\nMelewatkan desain yang sebenarnya lebih baik",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#simulasi-kesalahan-tipe-i-terjadi-sekitar-alpha-dari-waktu",
+    "href": "chapters/bab-2.html#simulasi-kesalahan-tipe-i-terjadi-sekitar-alpha-dari-waktu",
+    "title": "2  Pendahuluan",
+    "section": "8.2 Simulasi: Kesalahan Tipe I Terjadi Sekitar \\(\\alpha\\) dari Waktu",
+    "text": "8.2 Simulasi: Kesalahan Tipe I Terjadi Sekitar \\(\\alpha\\) dari Waktu\nJika mesin benar-benar tepat (\\(\\mu = 250\\)) dan kita menguji 10.000 sampel berbeda, berapa kali kita keliru menolak \\(H_0\\)?\n\nset.seed(101)\np_values_H0 &lt;- replicate(10000, {\n  x &lt;- rnorm(36, mean = 250, sd = 6)\n  z &lt;- (mean(x) - 250) / (6 / 6)\n  2 * (1 - pnorm(abs(z)))\n})\nmean(p_values_H0 &lt;= 0.05)   # proporsi kesalahan Tipe I\n\n[1] 0.0482\n\n\n\nhist(p_values_H0, breaks = 20, col = \"#c6dbef\", border = \"white\",\n     main = \"Distribusi p-value ketika H0 BENAR: seragam\", xlab = \"p-value\", ylab = \"Frekuensi\")\nabline(v = 0.05, col = \"firebrick\", lwd = 2)\n\n\n\n\n\n\n\nGambar 8.1: Distribusi p-value ketika H0 benar\n\n\n\n\n\nKetika \\(H_0\\) benar, p-value tersebar merata antara 0 dan 1; sekitar 5% di antaranya jatuh di bawah 0,05 murni karena kebetulan. Itulah makna \\(\\alpha\\).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#simulasi-kesalahan-tipe-ii-dan-power",
+    "href": "chapters/bab-2.html#simulasi-kesalahan-tipe-ii-dan-power",
+    "title": "2  Pendahuluan",
+    "section": "8.3 Simulasi: Kesalahan Tipe II dan Power",
+    "text": "8.3 Simulasi: Kesalahan Tipe II dan Power\nSekarang anggap mesin benar-benar mengisi rata-rata 248 gram (\\(H_0\\) salah). Seberapa sering uji kita mendeteksinya?\n\npower_sim &lt;- function(mu_benar, n, alpha = 0.05, B = 5000) {\n  mean(replicate(B, {\n    z &lt;- (mean(rnorm(n, mu_benar, 6)) - 250) / (6 / sqrt(n))\n    2 * (1 - pnorm(abs(z))) &lt;= alpha\n  }))\n}\npower_teori &lt;- function(mu_benar, n, alpha = 0.05) {\n  k &lt;- qnorm(1 - alpha / 2); d &lt;- (mu_benar - 250) / (6 / sqrt(n))\n  pnorm(-k - d) + 1 - pnorm(k - d)\n}\nset.seed(102)\nc(Power_simulasi = power_sim(248, 36), Power_teori = round(power_teori(248, 36), 4),\n  Beta_teori = round(1 - power_teori(248, 36), 4))\n\nPower_simulasi    Power_teori     Beta_teori \n        0.5078         0.5160         0.4840 \n\n\nDengan \\(n = 36\\), uji hanya mendeteksi selisih 2 gram sekitar 52% dari waktu; sekitar 48% dari waktu mesin yang salah setel lolos (kesalahan Tipe II).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#kurva-power-faktor-yang-memengaruhi",
+    "href": "chapters/bab-2.html#kurva-power-faktor-yang-memengaruhi",
+    "title": "2  Pendahuluan",
+    "section": "8.4 Kurva Power: Faktor yang Memengaruhi",
+    "text": "8.4 Kurva Power: Faktor yang Memengaruhi\n\nmu_seq &lt;- seq(245, 255, by = 0.05)\nplot(mu_seq, power_teori(mu_seq, 36), type = \"l\", lwd = 2, col = \"#4C72B0\", ylim = c(0, 1),\n     xlab = \"Rata-rata pengisian sebenarnya (gram)\", ylab = \"Power = P(tolak H0)\",\n     main = \"Kurva Power Uji Dua Arah (H0: mu = 250)\")\nlines(mu_seq, power_teori(mu_seq, 100), lwd = 2, col = \"#DD8452\")\nlines(mu_seq, power_teori(mu_seq, 36, alpha = 0.01), lwd = 2, lty = 2, col = \"#4C72B0\")\nabline(h = c(0.05, 0.8), lty = 3, col = \"grey50\")\nlegend(\"top\", bty = \"n\", lwd = 2, lty = c(1, 1, 2), col = c(\"#4C72B0\", \"#DD8452\", \"#4C72B0\"), cex = 0.8,\n       legend = c(\"n = 36, alpha = 0,05\", \"n = 100, alpha = 0,05\", \"n = 36, alpha = 0,01\"))\n\n\n\n\n\n\n\nGambar 8.2: Kurva power uji dua arah\n\n\n\n\n\n\n\n\n\n\n\n\n\nFaktor\nJika dinaikkan\nPower\n\n\n\n\nBesar efek sebenarnya (\\(\\lvert\\mu-\\mu_0\\rvert\\))\nSelisih makin besar\nNaik\n\n\nUkuran sampel \\(n\\)\nSE mengecil\nNaik\n\n\n\\(\\alpha\\)\nDaerah penolakan melebar\nNaik (tetapi risiko Tipe I naik)\n\n\nVariabilitas \\(\\sigma\\)\nSE membesar\nTurun\n\n\n\nTepat di \\(\\mu = 250\\) (saat \\(H_0\\) benar), kurva menyentuh \\(0{,}05 = \\alpha\\). Trade-off: memperkecil \\(\\alpha\\) (garis putus-putus) mengurangi kesalahan Tipe I tetapi menurunkan power (menambah kesalahan Tipe II). Satu-satunya cara mengurangi keduanya sekaligus adalah memperbesar sampel.\nKonvensi yang umum dipakai: rancang studi agar power minimal 0,80 untuk efek terkecil yang dianggap penting.\n\nn_power &lt;- function(delta, sigma, alpha = 0.05, power = 0.80) {\n  ceiling(((qnorm(1 - alpha / 2) + qnorm(power)) * sigma / delta)^2)\n}\nn_power(delta = 2, sigma = 6)   # sampel agar selisih 2 gram terdeteksi dengan power 80%\n\n[1] 71",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#signifikansi-statistik-vs-signifikansi-praktis",
+    "href": "chapters/bab-2.html#signifikansi-statistik-vs-signifikansi-praktis",
+    "title": "2  Pendahuluan",
+    "section": "9.1 Signifikansi Statistik vs Signifikansi Praktis",
+    "text": "9.1 Signifikansi Statistik vs Signifikansi Praktis\nDengan sampel sangat besar, selisih yang sangat kecil pun menjadi “signifikan secara statistik”.\n\nknitr::kable(rbind(\n  \"n = 36\"      = uji_z(xbar = 249.8, mu0 = 250, sigma = 6, n = 36),\n  \"n = 100.000\" = uji_z(xbar = 249.8, mu0 = 250, sigma = 6, n = 100000)\n), caption = \"Selisih 0,2 gram: tidak signifikan vs sangat signifikan\")\n\n\nSelisih 0,2 gram: tidak signifikan vs sangat signifikan\n\n\n\nz\nz_kritis\np_value\nkeputusan\n\n\n\n\nn = 36\n-0.2000\n1.96\n0.8415\nGagal menolak H0\n\n\nn = 100.000\n-10.5409\n1.96\n0.0000\nTolak H0\n\n\n\n\n\nSelisih 0,2 gram per kemasan (0,08%) kemungkinan tidak penting secara praktis, meskipun signifikan secara statistik pada \\(n = 100.000\\). Karena itu, selalu laporkan besar efek (selisih dan selang kepercayaannya), bukan hanya p-value.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#miskonsepsi-tentang-p-value",
+    "href": "chapters/bab-2.html#miskonsepsi-tentang-p-value",
+    "title": "2  Pendahuluan",
+    "section": "9.2 Miskonsepsi tentang P-Value",
+    "text": "9.2 Miskonsepsi tentang P-Value\n\n\n\n\n\n\n\n\nPernyataan\nBenar/Salah\nPenjelasan\n\n\n\n\n“p = 0,016 berarti peluang \\(H_0\\) benar adalah 1,6%.”\nSalah\nP-value dihitung dengan asumsi \\(H_0\\) benar; ia bukan peluang \\(H_0\\) benar\n\n\n“p = 0,016 berarti peluang hasil ini terjadi karena kebetulan adalah 1,6%.”\nSalah\nSama dengan di atas, dengan kata-kata berbeda\n\n\n“p &gt; 0,05 membuktikan tidak ada efek.”\nSalah\nBisa jadi power rendah (sampel kecil)\n\n\n“p yang lebih kecil berarti efeknya lebih besar.”\nSalah\nP-value dipengaruhi besar efek dan ukuran sampel\n\n\n“p = 0,049 dan p = 0,051 memberi bukti yang sangat berbeda.”\nSalah\nKeduanya menunjukkan kekuatan bukti yang hampir sama\n\n\n“Jika \\(H_0\\) benar, p-value kurang dari 0,05 terjadi sekitar 5% dari waktu.”\nBenar\nInilah makna \\(\\alpha\\)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#bahaya-uji-berganda-p-hacking",
+    "href": "chapters/bab-2.html#bahaya-uji-berganda-p-hacking",
+    "title": "2  Pendahuluan",
+    "section": "9.3 Bahaya Uji Berganda (P-Hacking)",
+    "text": "9.3 Bahaya Uji Berganda (P-Hacking)\nJika kita menguji banyak hipotesis sekaligus – atau mencoba banyak cara analisis sampai ada yang “signifikan” – peluang setidaknya satu kesalahan Tipe I melonjak.\n\nk &lt;- c(1, 5, 10, 20, 50)\ndata.frame(Banyak_uji = k, P_minimal_satu_false_positive = round(1 - (1 - 0.05)^k, 3))\n\n  Banyak_uji P_minimal_satu_false_positive\n1          1                         0.050\n2          5                         0.226\n3         10                         0.401\n4         20                         0.642\n5         50                         0.923\n\n\n\nset.seed(103)\n# 20 \"fitur\" acak tanpa hubungan apa pun dengan target, masing-masing diuji\np20 &lt;- replicate(20, { x &lt;- rnorm(30, 0, 1); 2 * (1 - pnorm(abs(mean(x) / (1 / sqrt(30))))) })\nsum(p20 &lt;= 0.05)\n\n[1] 1\n\n\nDengan 20 uji independen, peluang setidaknya satu hasil “signifikan” padahal semua \\(H_0\\) benar adalah sekitar 64%. Solusi sederhana adalah koreksi Bonferroni: pakai \\(\\alpha/k\\) untuk setiap uji (misalnya \\(0{,}05/20 = 0{,}0025\\)), atau tetapkan satu hipotesis utama sebelum melihat data.\n\nsum(p20 &lt;= 0.05 / 20)\n\n[1] 0\n\np.adjust(sort(p20)[1:3], method = \"bonferroni\", n = 20)\n\n[1] 0.766256 1.000000 1.000000",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#langkah-1-merumuskan-hipotesis-siapa-yang-menanggung-beban-pembuktian",
+    "href": "chapters/bab-2.html#langkah-1-merumuskan-hipotesis-siapa-yang-menanggung-beban-pembuktian",
+    "title": "2  Pendahuluan",
+    "section": "10.1 Langkah 1: Merumuskan Hipotesis – Siapa yang Menanggung Beban Pembuktian?",
+    "text": "10.1 Langkah 1: Merumuskan Hipotesis – Siapa yang Menanggung Beban Pembuktian?\nAda dua cara merumuskan hipotesis, dan pilihannya bukan sekadar teknis:\n\n\n\n\n\n\n\n\n\nRumusan\n\\(H_0\\)\n\\(H_1\\)\nArtinya\n\n\n\n\nA (praduga patuh)\n\\(\\mu \\le 50\\)\n\\(\\mu &gt; 50\\)\nPerusahaan dianggap patuh sampai ada bukti kuat melanggar\n\n\nB (praduga melanggar)\n\\(\\mu \\ge 50\\)\n\\(\\mu &lt; 50\\)\nPerusahaan harus membuktikan dirinya patuh",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#langkah-24-menjalankan-kedua-rumusan",
+    "href": "chapters/bab-2.html#langkah-24-menjalankan-kedua-rumusan",
+    "title": "2  Pendahuluan",
+    "section": "10.2 Langkah 2–4: Menjalankan Kedua Rumusan",
+    "text": "10.2 Langkah 2–4: Menjalankan Kedua Rumusan\n\nknitr::kable(rbind(\n  \"A: H1 mu &gt; 50 (melanggar)\" = uji_z(mean(tss), 50, sigma = 12, n = 30, arah = \"kanan\"),\n  \"B: H1 mu &lt; 50 (patuh)\"     = uji_z(mean(tss), 50, sigma = 12, n = 30, arah = \"kiri\")\n), caption = \"Data yang sama, dua rumusan hipotesis\")\n\n\nData yang sama, dua rumusan hipotesis\n\n\n\n\n\n\n\n\n\n\nz\nz_kritis\np_value\nkeputusan\n\n\n\n\nA: H1 mu &gt; 50 (melanggar)\n1.4286\n1.6449\n0.07655\nGagal menolak H0\n\n\nB: H1 mu &lt; 50 (patuh)\n1.4286\n-1.6449\n0.92340\nGagal menolak H0",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#langkah-5-konsekuensi-kesalahan",
+    "href": "chapters/bab-2.html#langkah-5-konsekuensi-kesalahan",
+    "title": "2  Pendahuluan",
+    "section": "10.3 Langkah 5: Konsekuensi Kesalahan",
+    "text": "10.3 Langkah 5: Konsekuensi Kesalahan\n\n\n\n\n\n\n\n\nRumusan\nKesalahan Tipe I\nKesalahan Tipe II\n\n\n\n\nA\nPerusahaan patuh dinyatakan melanggar (sanksi tidak adil)\nPelanggaran lolos (lingkungan dirugikan)\n\n\nB\nPerusahaan melanggar dinyatakan patuh (lingkungan dirugikan)\nPerusahaan patuh gagal membuktikan kepatuhannya\n\n\n\n\n# Power rumusan A untuk mendeteksi pelanggaran nyata sebesar 5 mg/L (mu = 55)\npower_kanan &lt;- function(mu_benar, mu0, sigma, n, alpha = 0.05)\n  1 - pnorm(qnorm(1 - alpha) - (mu_benar - mu0) / (sigma / sqrt(n)))\nround(c(Power_n30 = power_kanan(55, 50, 12, 30), Power_n60 = power_kanan(55, 50, 12, 60)), 3)\n\nPower_n30 Power_n60 \n    0.738     0.943",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#pertanyaan-diskusi-dan-jawaban",
+    "href": "chapters/bab-2.html#pertanyaan-diskusi-dan-jawaban",
+    "title": "2  Pendahuluan",
+    "section": "10.4 Pertanyaan Diskusi dan Jawaban",
+    "text": "10.4 Pertanyaan Diskusi dan Jawaban\n1. Apa kesimpulan rumusan A?\nP-value = 0.07655. Pada taraf 5% bukti belum cukup untuk menyatakan rata-rata TSS melebihi 50 mg/L, meskipun rata-rata sampel di atas baku mutu.\n2. Mengapa rumusan B lebih “protektif” terhadap lingkungan?\nPada rumusan B, kesalahan yang dikendalikan ketat (\\(\\alpha = 5\\%\\)) adalah menyatakan patuh padahal melanggar. Beban pembuktian ada pada perusahaan: rata-rata sampel harus cukup jauh di bawah 50 mg/L agar dinyatakan patuh. Pada data ini, rumusan B jelas gagal membuktikan kepatuhan.\n3. Mengapa power penting bagi regulator?\nDengan rumusan A dan \\(n = 30\\), pelanggaran nyata sebesar 5 mg/L hanya terdeteksi sekitar 74% dari waktu. Sisanya lolos. Menambah sampel menjadi 60 menaikkan power menjadi sekitar 94%. Keputusan jumlah sampel pemantauan adalah keputusan tentang seberapa sering pelanggaran boleh lolos.\n4. Apa pelajaran umumnya?\nRumusan \\(H_0\\) menentukan siapa yang diuntungkan oleh keraguan. Pilihan itu harus didasarkan pada konsekuensi kesalahan di dunia nyata, ditetapkan sebelum data dilihat, dan dilaporkan secara terbuka.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#latihan-utama-umur-baterai-ponsel",
+    "href": "chapters/bab-2.html#latihan-utama-umur-baterai-ponsel",
+    "title": "2  Pendahuluan",
+    "section": "11.1 Latihan Utama: Umur Baterai Ponsel",
+    "text": "11.1 Latihan Utama: Umur Baterai Ponsel\nKonteks: Produsen mengklaim baterai ponselnya bertahan rata-rata 20 jam pemakaian normal. Lembaga konsumen menguji 40 unit. Dari spesifikasi pengujian standar, \\(\\sigma = 2{,}5\\) jam.\n\nset.seed(3)\numur &lt;- round(rnorm(40, mean = 19.3, sd = 2.5), 1)\nround(c(n = length(umur), Mean = mean(umur), SD = sd(umur)), 3)\n\n     n   Mean     SD \n40.000 19.160  2.086 \n\n\n\n11.1.1 Tugas 1: Rumuskan hipotesis\nLembaga konsumen curiga umur baterai kurang dari yang diklaim.\nJawaban: \\(H_0: \\mu \\ge 20\\) jam (klaim benar); \\(H_1: \\mu &lt; 20\\) jam (klaim berlebihan). Uji satu arah kiri.\n\n\n11.1.2 Tugas 2: Hitung statistik uji, nilai kritis, dan p-value (\\(\\alpha = 0{,}05\\))\n\nhasil_lat &lt;- uji_z(mean(umur), mu0 = 20, sigma = 2.5, n = 40, arah = \"kiri\")\nhasil_lat\n\n        z z_kritis p_value keputusan\n1 -2.1251  -1.6449 0.01679  Tolak H0\n\n\n\n\n11.1.3 Tugas 3: Ambil keputusan dan tuliskan kesimpulan dalam konteks\nJawaban: statistik uji \\(z\\) = -2.1251 dengan p-value 0.01679. Karena p-value kurang dari 0,05, H0 ditolak: terdapat bukti yang cukup bahwa rata-rata umur baterai kurang dari 20 jam seperti yang diklaim.\n\n\n11.1.4 Tugas 4: Bagaimana keputusannya jika \\(\\alpha = 0{,}01\\)?\n\nuji_z(mean(umur), mu0 = 20, sigma = 2.5, n = 40, arah = \"kiri\", alpha = 0.01)\n\n        z z_kritis p_value        keputusan\n1 -2.1251  -2.3263 0.01679 Gagal menolak H0\n\n\nJawaban: pada \\(\\alpha = 0{,}01\\) nilai kritisnya -2.326, sehingga keputusannya menjadi Gagal menolak H0. Keputusan dapat berubah menurut \\(\\alpha\\) – itulah sebabnya \\(\\alpha\\) harus ditetapkan sebelum melihat data, dan p-value sebaiknya dilaporkan apa adanya agar pembaca dapat menilai sendiri kekuatan buktinya.\n\n\n11.1.5 Tugas 5: Jelaskan kesalahan Tipe I dan II dalam konteks ini\nJawaban: Tipe I – lembaga menyatakan klaim produsen berlebihan padahal baterai sebenarnya bertahan rata-rata 20 jam (merugikan reputasi produsen). Tipe II – lembaga menyatakan tidak ada bukti klaim berlebihan padahal baterai sebenarnya bertahan kurang dari 20 jam (merugikan konsumen).\n\n\n11.1.6 Tugas 6 (Tantangan): Power dan ukuran sampel\nHitung power uji ini untuk mendeteksi umur sebenarnya 19 jam, lalu tentukan \\(n\\) agar power-nya 90%.\n\npower_kiri &lt;- function(mu_benar, mu0, sigma, n, alpha = 0.05)\n  pnorm(qnorm(alpha) - (mu_benar - mu0) / (sigma / sqrt(n)))\nround(power_kiri(19, 20, 2.5, 40), 3)\n\n[1] 0.812\n\nceiling(((qnorm(0.95) + qnorm(0.90)) * 2.5 / 1)^2)   # n satu arah, power 90%\n\n[1] 54\n\n\nJawaban: dengan 40 unit, selisih 1 jam terdeteksi sekitar 81% dari waktu. Untuk power 90% dibutuhkan sekitar 54 unit.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#latihan-tambahan-self-check",
+    "href": "chapters/bab-2.html#latihan-tambahan-self-check",
+    "title": "2  Pendahuluan",
+    "section": "11.2 Latihan Tambahan (Self-Check)",
+    "text": "11.2 Latihan Tambahan (Self-Check)\nKerjakan soal-soal berikut secara mandiri sebelum melihat kunci jawaban pada komentar kode.\nSoal A. Tuliskan \\(H_0\\) dan \\(H_1\\): (1) Apakah rata-rata waktu respons server berubah dari 200 ms setelah pembaruan? (2) Apakah pelatihan menaikkan rata-rata skor tes di atas 70? (3) Apakah rata-rata kadar gula minuman kurang dari 10 g seperti label?\n\n# Kunci jawaban:\n# (1) H0: mu = 200 vs H1: mu != 200 (dua arah)\n# (2) H0: mu &lt;= 70 vs H1: mu &gt; 70 (kanan)\n# (3) Jika pemeriksa ingin membuktikan label benar: H0: mu &gt;= 10 vs H1: mu &lt; 10 (kiri).\n#     Jika pemeriksa curiga kadar gula melebihi label: H0: mu &lt;= 10 vs H1: mu &gt; 10 (kanan).\n#     Rumusan bergantung pada klaim yang ingin dibuktikan.\n\nSoal B. Uji dua arah menghasilkan \\(z = 1{,}80\\). Hitung p-value dan keputusan pada \\(\\alpha = 0{,}05\\) dan \\(0{,}10\\). Bagaimana jika ujinya satu arah kanan?\n\n# Kunci jawaban:\n2 * (1 - pnorm(1.80))   # 0.0719 -&gt; gagal tolak (0.05), tolak (0.10)\n1 - pnorm(1.80)         # 0.0359 -&gt; tolak pada 0.05 (jika arah kanan ditetapkan SEBELUM melihat data)\n\nSoal C. Seorang analis melaporkan: “p-value = 0,23, jadi terbukti kampanye iklan tidak berpengaruh terhadap penjualan.” Kritik pernyataan ini.\n\n# Kunci jawaban:\n# \"Gagal menolak H0\" bukan bukti H0 benar. P-value 0,23 hanya berarti data tidak memberi bukti\n# yang cukup untuk menyatakan ada pengaruh. Mungkin pengaruhnya kecil dan power uji rendah\n# (sampel kecil). Laporkan selang kepercayaan besar efek untuk melihat rentang pengaruh\n# yang masih masuk akal.\n\nSoal D. Sebuah tim menguji 15 variasi warna tombol terhadap warna lama, masing-masing dengan \\(\\alpha = 0{,}05\\), dan melaporkan satu variasi yang “signifikan” (\\(p = 0{,}03\\)). Berapa peluang setidaknya satu hasil signifikan jika sebenarnya tidak ada variasi yang lebih baik? Apakah temuan itu meyakinkan dengan koreksi Bonferroni?\n\n# Kunci jawaban:\n1 - 0.95^15   # sekitar 0.537 -&gt; lebih dari separuh kemungkinan ada \"temuan\" palsu\n0.05 / 15     # batas Bonferroni = 0.0033; p = 0.03 &gt; 0.0033 -&gt; TIDAK signifikan setelah koreksi",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pendahuluan</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#tiga-distribusi-yang-harus-dibedakan",
+    "href": "chapters/bab-1.html#tiga-distribusi-yang-harus-dibedakan",
+    "title": "1  Distribusi Sampling",
+    "section": "",
+    "text": "Distribusi\nIsinya\nJumlah nilai\nContoh\n\n\n\n\nDistribusi populasi\nNilai setiap unit populasi\nN\nPengeluaran 20.000 mahasiswa\n\n\nDistribusi sampel\nNilai unit dalam satu sampel\nn\nPengeluaran 40 mahasiswa yang disurvei\n\n\nDistribusi sampling\nNilai statistik (misalnya \\(\\bar{x}\\)) dari banyak sampel\nSebanyak sampel yang dibayangkan diambil\n\\(\\bar{x}\\) dari 10.000 sampel berukuran 40\n\n\n\n\n\n1.1.1 Populasi Simulasi\nKita memakai populasi 20.000 mahasiswa dengan variabel waktu layar harian (jam) yang menjulur kanan – bentuk yang sengaja dipilih jauh dari lonceng.\n\nset.seed(909)\nN &lt;- 20000\npopulasi &lt;- round(rgamma(N, shape = 2, rate = 0.4), 2)\n\nmu &lt;- mean(populasi)\nsigma &lt;- sqrt(mean((populasi - mu)^2))\n\nc(N = N, mu = round(mu, 3), sigma = round(sigma, 3))\n\n        N        mu     sigma \n20000.000     5.010     3.551 \n\n\n\nset.seed(1)\n\nsatu_sampel &lt;- sample(populasi, 40)\nbanyak_rata &lt;- replicate(10000, mean(sample(populasi, 40)))\n\npar(mfrow = c(1, 3))\n\nhist(populasi, breaks = 40, col = \"#9ecae1\", border = \"white\",\n     main = \"Populasi (N = 20.000)\",\n     xlab = \"Jam per hari\", xlim = c(0, 20))\n\nhist(satu_sampel, breaks = 12, col = \"#fdae6b\", border = \"white\",\n     main = \"Satu sampel (n = 40)\",\n     xlab = \"Jam per hari\", xlim = c(0, 20))\n\nhist(banyak_rata, breaks = 40, col = \"#a1d99b\", border = \"white\",\n     main = \"Sampling distribution x-bar\",\n     xlab = \"Rata-rata sampel (n = 40)\")\n\n\n\n\n\n\n\n\n\npar(mfrow = c(1, 1))\n\nPopulasi dan satu sampel sama-sama menjulur kanan, tetapi distribusi rata-rata sampel jauh lebih sempit dan hampir berbentuk lonceng. Inilah inti pertemuan ini.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#distribusi-sampling-rata-rata-sampel",
+    "href": "chapters/bab-1.html#distribusi-sampling-rata-rata-sampel",
+    "title": "1  Distribusi Sampling",
+    "section": "1.2 Distribusi Sampling Rata-rata Sampel",
+    "text": "1.2 Distribusi Sampling Rata-rata Sampel\nUntuk sampel acak berukuran n dari populasi dengan mean μ dan simpangan baku σ:\n\n\n\n\n\n\n\n\nSifat\nRumus\nArti\n\n\n\n\nMean\n\\(\\mu_{\\bar{x}} = \\mu\\)\n\\(\\bar{x}\\) adalah penaksir tak bias: rata-ratanya tepat di parameter populasi\n\n\nStandard error\n\\(\\sigma_{\\bar{x}} = \\frac{\\sigma}{\\sqrt{n}}\\)\nSebaran \\(\\bar{x}\\) mengecil seiring bertambahnya ukuran sampel (\\(n\\))\n\n\nBentuk\nNormal\nJika populasi normal, distribusi sampling juga normal; mendekati normal untuk \\(n\\) cukup besar (CLT)\n\n\nPeluang\n\\(P(\\bar{x})\\)\nMemungkinkan perhitungan peluang berdasarkan distribusi sampling\n\n\n\n\nknitr::kable(data.frame(\n  Besaran = c(\"Mean distribusi sampling\", \"SD distribusi sampling (SE)\"),\n  Teori = round(c(mu, sigma / sqrt(40)), 4),\n  Simulasi_10000_sampel = round(c(mean(banyak_rata), sd(banyak_rata)), 4)\n), caption = \"Teori vs simulasi untuk n = 40\")\n\n\nTeori vs simulasi untuk n = 40\n\n\nBesaran\nTeori\nSimulasi_10000_sampel\n\n\n\n\nMean distribusi sampling\n5.0097\n5.0024\n\n\nSD distribusi sampling (SE)\n0.5615\n0.5556\n\n\n\n\n\nHasil simulasi hampir sama dengan teori.\nKoreksi populasi terhingga. Rumus \\(\\frac{\\sigma}{\\sqrt{n}}\\) mengasumsikan populasi sangat besar dibanding sampel. Jika sampel mencapai lebih dari sekitar 5% populasi (tanpa pengembalian), SE dikalikan faktor:\n\\[\n\\sqrt{\\frac{N-n}{N-1}}\n\\]\nPada contoh ini, \\(n/N = 0,2\\%\\), sehingga koreksi dapat diabaikan.\n\n1.2.1 Pengaruh Ukuran Sampel\n\nset.seed(2)\nn_list &lt;- c(5, 20, 80)\n\npar(mfrow = c(1, 3))\n\nfor (nn in n_list) {\n  rata &lt;- replicate(5000, mean(sample(populasi, nn)))\n\n  hist(rata, breaks = 40, col = \"#a1d99b\", border = \"white\",\n       xlim = c(1, 10), freq = FALSE,\n       main = paste0(\"n = \", nn, \" (SE = \", round(sigma / sqrt(nn), 2), \")\"),\n       xlab = \"Rata-rata sampel\")\n\n  curve(dnorm(x, mu, sigma / sqrt(nn)),\n        add = TRUE, col = \"firebrick\", lwd = 2)\n\n  abline(v = mu, lty = 2)\n}\n\n\n\n\n\n\n\n\n\npar(mfrow = c(1, 1))\n\nKurva merah adalah distribusi normal dengan mean μ dan SD \\(\\frac{\\sigma}{\\sqrt{n}}\\). Semakin besar n: (1) distribusi semakin sempit, dan (2) bentuknya semakin mendekati normal meskipun populasinya menjulur kanan.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#central-limit-theorem-clt",
+    "href": "chapters/bab-1.html#central-limit-theorem-clt",
+    "title": "1  Distribusi Sampling",
+    "section": "1.3 Central Limit Theorem (CLT)",
+    "text": "1.3 Central Limit Theorem (CLT)\nCentral Limit Theorem (CLT). Jika sampel acak berukuran n diambil dari populasi sembarang bentuk dengan mean μ dan simpangan baku σ (terhingga), maka untuk n yang cukup besar, distribusi sampling \\(\\bar{x}\\) mendekati normal:\n\\[\n\\bar{x} \\approx N\\left(\\mu,\\frac{\\sigma}{\\sqrt{n}}\\right)\n\\]\nCLT adalah alasan mengapa distribusi normal muncul di mana-mana dalam statistika inferensial – bukan karena data selalu normal, tetapi karena rata-rata dari data cenderung normal.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#distribusi-sampling-proporsi-sampel",
+    "href": "chapters/bab-1.html#distribusi-sampling-proporsi-sampel",
+    "title": "1  Distribusi Sampling",
+    "section": "1.5 Distribusi Sampling Proporsi Sampel",
+    "text": "1.5 Distribusi Sampling Proporsi Sampel\nUntuk variabel kategorik biner (Ya/Tidak), statistik yang dipakai adalah proporsi sampel ̂p = x/n.\n\n\n\nSifat\nRumus\n\n\n\n\nMean\n\\(\\mu_{\\hat{p}} = p\\)\n\n\nStandard error\n\\(\\sigma_{\\hat{p}} = \\sqrt{\\frac{p(1-p)}{n}}\\)\n\n\nBentuk\nMendekati normal jika \\(np \\geq 10\\) dan \\(n(1-p) \\geq 10\\)\n\n\n\n\np_benar &lt;- 0.08 # misalnya 8% mahasiswa pernah terlambat membayar UKT\nset.seed(5)\npar(mfrow = c(1, 3))\nfor (nn in c(20, 60, 300)) {\np_hat &lt;- rbinom(5000, size = nn, prob = p_benar) / nn\nhist(p_hat, breaks = seq(-0.005, 0.4, by = 0.01), col = \"#fdae6b\", border =\"white\",\nfreq = FALSE, xlim = c(0, 0.3),\nmain = paste0(\"n = \", nn, \": np = \", nn * p_benar), xlab = \"Proporsisampel\")\ncurve(dnorm(x, p_benar, sqrt(p_benar * (1 - p_benar) / nn)), add = TRUE,\ncol = \"firebrick\", lwd = 2)\n}\n\n\n\n\n\n\n\n\n\npar(mfrow = c(1, 1))\n\nDengan n = 20 (np = 1,6), distribusi ̂p sangat menceng dan “berbatang” – pendekatan normal buruk. Dengan n = 300 (np = 24), pendekatan normal sangat baik.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#standard-error",
+    "href": "chapters/bab-1.html#standard-error",
+    "title": "1  Distribusi Sampling",
+    "section": "1.6 Standard Error",
+    "text": "1.6 Standard Error\n\n1.6.1 Standard Error vs Simpangan Baku\n\n\n\n\n\n\n\n\nPerbandingan\nStandard Deviation (SD)\nStandard Error (SE)\n\n\n\n\nMengukur sebaran\nData individu\nStatistik (misalnya \\(\\bar{x}\\)) dari sampel ke sampel\n\n\nMenjawab\n“Seberapa beragam individu?”\n“Seberapa tepat taksiran kita?”\n\n\nJika n bertambah\nTetap (mendekati \\(\\sigma\\))\nMengecil\n\n\nRumus (mean)\n\\(s = \\sqrt{\\frac{\\sum (x_i-\\bar{x})^2}{n-1}}\\)\n\\(SE = \\frac{s}{\\sqrt{n}}\\)\n\n\n\nKarena σ biasanya tidak diketahui, SE ditaksir dengan s/√\nn (untuk mean) atau √ ̂p(1 − ̂p)/n\n(untuk proporsi).\n\nset.seed(6)\n\nn_besar &lt;- c(10, 40, 160, 640)\n\nknitr::kable(\n  t(sapply(n_besar, function(nn) {\n    hasil &lt;- replicate(2000, {\n      s &lt;- sample(populasi, nn)\n      c(sd(s), sd(s) / sqrt(nn))\n    })\n\n    c(\n      n = nn,\n      Rata_SD_sampel = round(mean(hasil[1, ]), 3),\n      Rata_SE_taksiran = round(mean(hasil[2, ]), 3)\n    )\n  })),\n  caption = paste0(\n    \"Rata-rata dari 2.000 sampel per n: SD stabil di sekitar sigma = \",\n    round(sigma, 2),\n    \", SE mengecil\"\n  )\n)\n\n\nRata-rata dari 2.000 sampel per n: SD stabil di sekitar sigma = 3.55, SE mengecil\n\n\nn\nRata_SD_sampel\nRata_SE_taksiran\n\n\n\n\n10\n3.348\n1.059\n\n\n40\n3.493\n0.552\n\n\n160\n3.537\n0.280\n\n\n640\n3.551\n0.140\n\n\n\n\n\nTable 8: Rata-rata dari 2.000 sampel per n: SD stabil di sekitar sigma = 3.55, SE mengecil\n\n\n\nn\nRata_SD_sampel\nRata_SE_taksiran\n\n\n\n\n10\n3.348\n1.059\n\n\n40\n3.493\n0.552\n\n\n160\n3.537\n0.280\n\n\n640\n3.551\n0.140\n\n\n\n\n\n1.6.2 Hukum Akar Kuadrat\nKarena SE ∝ 1/√\nn, untuk membagi dua SE dibutuhkan sampel empat kali lipat. Presisi semakin mahal: menambah n dari 100 ke 400 memberi keuntungan yang sama dengan dari 400 ke 1.600.\n\nn_seq &lt;- 10:1000\nplot(n_seq, sigma / sqrt(n_seq), type = \"l\", lwd = 2, col = \"#4C72B0\",\nxlab = \"Ukuran sampel (n)\", ylab = \"Standard error\",\nmain = \"SE Menurun Cepat di Awal, Lalu Melandai\")\npoints(c(100, 400), sigma / sqrt(c(100, 400)), pch = 16, col = \"firebrick\", cex =1.3)\ntext(c(100, 400), sigma / sqrt(c(100, 400)), pos = 3,\nlabels = paste0(\"n = \", c(100, 400), \"\\nSE = \", round(sigma / sqrt(c(100,400)), 2)))",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#estimasi",
+    "href": "chapters/bab-1.html#estimasi",
+    "title": "1  Distribusi Sampling",
+    "section": "1.7 Estimasi",
+    "text": "1.7 Estimasi\n\n1.7.1 Point Estimate\nPoint estimate adalah satu angka yang menaksir parameter.\n\n\n\nParameter\nPoint Estimate\nPenaksir Tak Bias?\n\n\n\n\n\\(\\mu\\)\n\\(\\bar{x}\\)\nYa\n\n\n\\(p\\)\n\\(\\hat{p}\\)\nYa\n\n\n\\(\\sigma^2\\)\n\\(s^2\\) (pembagi \\(n-1\\))\nYa\n\n\n\\(\\sigma\\)\n\\(s\\)\nSedikit bias (diabaikan dalam praktik)\n\n\n\nKelemahan point estimate: hampir pasti tidak tepat sama dengan parameter, dan tidak memberi tahu seberapa jauh melesetnya.\n\n\n1.7.2 Confidence Interval (Selang Kepercayaan)\nSelang kepercayaan memberikan rentang nilai yang masuk akal bagi parameter: Point estimate ± nilai kritis ⏟⏟⏟⏟⏟⏟⏟ × SE margin of error\n\n\n1.7.3 CI untuk Mean, σ Diketahui (z)\n̄x ± zα/2 σ √ n\n\n\n\nTingkat Kepercayaan\nα\n\\(z_{\\alpha/2}\\)\n\n\n\n\n90%\n0,10\n1,645\n\n\n95%\n0,05\n1,960\n\n\n99%\n0,01\n2,576\n\n\n\n\nround(qnorm(c(0.95, 0.975, 0.995)), 3)\n\n[1] 1.645 1.960 2.576\n\n\n\n\n1.7.4 CI untuk Mean, σ Tidak Diketahui (t)\nDalam praktik σ hampir tidak pernah diketahui dan diganti s. Penggantian ini menambah ketidak- pastian, sehingga nilai kritis diambil dari distribusi t dengan derajat bebas df = n − 1:\n̄x ± tα/2, n−1 s √\n\ncurve(dnorm(x), -4, 4, lwd = 2, ylab = \"Kepadatan\", xlab = \"Nilai\",\nmain = \"Distribusi t Berekor Lebih Tebal dari Normal\")\ncurve(dt(x, df = 3), add = TRUE, lwd = 2, lty = 2, col = \"firebrick\")\ncurve(dt(x, df = 10), add = TRUE, lwd = 2, lty = 3, col = \"darkorange\")\nlegend(\"topright\", bty = \"n\", lwd = 2, lty = c(1, 2, 3), col = c(\"black\", \"firebrick\", \"darkorange\"),\nlegend = c(\"Normal baku (z)\", \"t, df = 3\", \"t, df = 10\"))\n\n\n\n\n\n\n\n\n\ndata.frame(\n  df = c(4, 9, 29, 99, Inf),\n  t_kritis_95 = round(\n    qt(0.975, df = c(4, 9, 29, 99, Inf)),\n    3\n  )\n)\n\n   df t_kritis_95\n1   4       2.776\n2   9       2.262\n3  29       2.045\n4  99       1.984\n5 Inf       1.960\n\n\nUntuk sampel kecil, nilai kritis t lebih besar daripada 1,96 (selang lebih lebar, “hukuman” karena menaksir 𝜎). Saat 𝑛 membesar, distribusi t mendekati normal. Distribusi t dibahas lebih dalam pada Pertemuan 11.\n\nContoh Perhitungan\nSatu sampel 40 mahasiswa (satu_sampel) dipakai untuk menaksir rata-rata waktu layar seluruh mahasiswa.\n\nn1 &lt;- length(satu_sampel)\nxbar &lt;- mean(satu_sampel)\ns &lt;- sd(satu_sampel)\n\nt_krit &lt;- qt(0.975, df = n1 - 1)\nse_hat &lt;- s / sqrt(n1)\nmoe &lt;- t_krit * se_hat\n\nc(\n  n = n1,\n  x_bar = round(xbar, 3),\n  s = round(s, 3),\n  SE = round(se_hat, 3),\n  t_kritis = round(t_krit, 3),\n  MoE = round(moe, 3),\n  Bawah = round(xbar - moe, 3),\n  Atas = round(xbar + moe, 3)\n)\n\n       n    x_bar        s       SE t_kritis      MoE    Bawah     Atas \n  40.000    4.915    3.019    0.477    2.023    0.966    3.950    5.881 \n\n\n\nt.test(satu_sampel, conf.level = 0.95)$conf.int # fungsi bawaan R, hasil sam\n\n[1] 3.949947 5.881053\nattr(,\"conf.level\")\n[1] 0.95\n\n\nLaporan: “Rata-rata waktu layar mahasiswa diperkirakan 4.92 jam per hari, dengan selang kepercayaan 95% antara 3.95 dan 5.88 jam (n = 40).”\n\n\nCI untuk Proporsi\n𝑝 ± 𝑧𝛼/2√ ̂𝑝(1 − ̂𝑝) 𝑛 syarat: 𝑛 ̂𝑝 ≥ 10 dan 𝑛(1 − ̂𝑝) ≥ 1\n\nx_ya &lt;- 138; n_resp &lt;- 400 # 138 dari 400 responden memakai QRIS setiap hari\np_hat &lt;- x_ya / n_resp\nse_p &lt;- sqrt(p_hat * (1 - p_hat) / n_resp)\nmoe_p &lt;- qnorm(0.975) * se_p\nc(p_hat = p_hat, SE = round(se_p, 4), MoE = round(moe_p, 4),\nBawah = round(p_hat - moe_p, 4), Atas = round(p_hat + moe_p, 4))\n\n p_hat     SE    MoE  Bawah   Atas \n0.3450 0.0238 0.0466 0.2984 0.3916 \n\n\n\nc(n_p = n_resp * p_hat, n_1_min_p = n_resp * (1 - p_hat)) # syarat terpenuhi\n\n      n_p n_1_min_p \n      138       262 \n\n\n“Sekitar 34,5% responden memakai QRIS setiap hari, margin of error ± 4.7 poin persentase (kepercayaan 95%)” – format inilah yang sering dikutip media dari hasil survei.\n\n\n\n1.7.5 Menafsirkan Selang Kepercayaan dengan Benar\nKepercayaan 95% adalah sifat prosedurnya, bukan satu selang tertentu: jika pengambilan sampel dan perhitungan selang diulang berkali-kali, sekitar 95% selang yang dihasilkan akan memuat 𝜇.\n\nset.seed(7)\n\nB &lt;- 100\n\nselang &lt;- t(replicate(B, {\n  s_i &lt;- sample(populasi, 40)\n  m &lt;- mean(s_i)\n  e &lt;- qt(0.975, 39) * sd(s_i) / sqrt(40)\n  c(bawah = m - e, atas = m + e)\n}))\n\nmemuat &lt;- selang[, \"bawah\"] &lt;= mu & selang[, \"atas\"] &gt;= mu\n\nplot(\n  NULL,\n  xlim = range(selang),\n  ylim = c(1, B),\n  xlab = \"Waktu layar (jam)\",\n  ylab = \"Sampel ke-\",\n  main = paste0(\"100 Selang Kepercayaan 95%: \", sum(memuat), \" memuat mu\")\n)\n\nsegments(\n  selang[, \"bawah\"], 1:B,\n  selang[, \"atas\"], 1:B,\n  col = ifelse(memuat, \"grey50\", \"firebrick\"),\n  lwd = ifelse(memuat, 1, 2.5)\n)\n\nabline(v = mu, col = \"#4C72B0\", lwd = 2)\n\n\n\n\n\n\n\n\nGaris merah adalah selang yang gagal memuat 𝜇. Kita tidak pernah tahu apakah selang kita termasuk yang merah – tetapi kita tahu prosedurnya berhasil sekitar 95% dari waktu\n\n\n\n\n\n\n\n\nPernyataan\nPenilaian\nPenjelasan\n\n\n\n\nKami 95% yakin bahwa selang 4,2–5,7 jam memuat rata-rata populasi.\nBenar\nDapat diterima sebagai bahasa sehari-hari.\n\n\n95% selang yang dibuat dengan prosedur ini akan memuat μ.\nBenar\nTafsiran paling tepat secara statistik.\n\n\nAda peluang 95% bahwa μ berada di antara 4,2 dan 5,7.\nSalah\nμ merupakan nilai tetap, bukan variabel acak.\n\n\n95% mahasiswa memiliki waktu layar antara 4,2 dan 5,7 jam.\nSalah\nCI membahas rata-rata populasi, bukan individu.\n\n\n95% rata-rata sampel lain akan jatuh di selang ini.\nSalah\nCI bukan rentang persebaran rata-rata sampel.\n\n\n\n\n\n1.7.6 Faktor yang Memengaruhi Lebar Selan\n\n\n\nFaktor Jika Dinaikkan\nPengaruh\nLebar Selang\n\n\n\n\nTingkat kepercayaan (90% → 99%)\nNilai kritis naik\nMelebar\n\n\nUkuran sampel (n)\nSE turun\nMenyempit\n\n\nVariabilitas data (s)\nSE naik\nMelebar\n\n\n\n\nlebar &lt;- function(n, s, conf) {\n  2 * qt(1 - (1 - conf) / 2, df = n - 1) * s / sqrt(n)\n}\n\ntabel_lebar &lt;- outer(\n  c(20, 80, 320),\n  c(0.90, 0.95, 0.99),\n  Vectorize(function(n, cf) lebar(n, s = 3, conf = cf))\n)\n\ntabel_lebar &lt;- round(tabel_lebar, 3)\n\ndimnames(tabel_lebar) &lt;- list(\n  c(\"n = 20\", \"n = 80\", \"n = 320\"),\n  c(\"90%\", \"95%\", \"99%\")\n)\n\nknitr::kable(\n  tabel_lebar,\n  caption = \"Lebar CI (s = 3) menurut ukuran sampel dan tingkat kepercayaan\"\n)\n\n\nLebar CI (s = 3) menurut ukuran sampel dan tingkat kepercayaan\n\n\n\n90%\n95%\n99%\n\n\n\n\nn = 20\n2.320\n2.808\n3.838\n\n\nn = 80\n1.116\n1.335\n1.771\n\n\nn = 320\n0.553\n0.660\n0.869",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#menentukan-ukuran-sampel",
+    "href": "chapters/bab-1.html#menentukan-ukuran-sampel",
+    "title": "1  Distribusi Sampling",
+    "section": "1.8 Menentukan Ukuran Sampel",
+    "text": "1.8 Menentukan Ukuran Sampel\nSebelum survei, peneliti biasanya menetapkan margin of error (𝐸) yang diinginkan lalu menghitung 𝑛 minimum (selalu dibulatkan ke atas).\n\n\n\n\n\n\n\n\nParameter\nRumus Ukuran Sampel\nKeterangan\n\n\n\n\nMean\n(n = ()^2)\n() ditaksir dari studi sebelumnya atau survei percontohan.\n\n\nProporsi\n(n = )\nJika (p) tidak diketahui, gunakan (p = 0,5) (paling konservatif).\n\n\n\n\nn_mean &lt;- function(sigma, E, conf = 0.95) {\n  ceiling((qnorm(1 - (1 - conf) / 2) * sigma / E)^2)\n}\n\nn_prop &lt;- function(E, p = 0.5, conf = 0.95) {\n  ceiling(qnorm(1 - (1 - conf) / 2)^2 * p * (1 - p) / E^2)\n}\n\nn_mean(sigma = 3.5, E = 0.5)\n\n[1] 189\n\n\nSurvei nasional dengan margin of error sekitar ± 3% memerlukan sekitar 1.000–1.100 responden, berapa pun ukuran populasinya (asalkan populasi jauh lebih besar dari sampel). Memperkecil margin of error dari 2% ke 1% memerlukan sampel empat kali lipat. Ukuran sampel tidak menyembuhkan bias. Rumus di atas hanya mengendalikan galat acak. Jika metode sampling bias (Pertemuan 3), sampel sebesar apa pun tetap menghasilkan selang yang presisi di tempat yang salah.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#studi-kasus-komprehensif-survei-adopsi-qris-umkm",
+    "href": "chapters/bab-1.html#studi-kasus-komprehensif-survei-adopsi-qris-umkm",
+    "title": "1  Distribusi Sampling",
+    "section": "1.9 Studi Kasus Komprehensif: Survei Adopsi QRIS UMKM",
+    "text": "1.9 Studi Kasus Komprehensif: Survei Adopsi QRIS UMKM\nKonteks: Dinas Koperasi ingin menaksir (1) proporsi UMKM kuliner yang menerima QRIS dan (2) rata-rata nilai transaksi QRIS harian per UMKM pengguna. Survei acak sederhana terhadap 250 UMKM dari daftar resmi menghasilkan data berikut.\n\nset.seed(2026)\n\nn_umkm &lt;- 250\n\nterima_qris &lt;- rbinom(n_umkm, 1, 0.62)\n\nnilai_trx &lt;- round(\n  rlnorm(\n    sum(terima_qris),\n    meanlog = log(450000),\n    sdlog = 0.6\n  ),\n  -3\n) # Rp/hari\n\nc(Jumlah_pengguna = sum(terima_qris))\n\nJumlah_pengguna \n            165 \n\n\n\nsummary(nilai_trx)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  98000  334000  472000  553685  653000 2192000 \n\n\n\n1.9.1 Langkah 1: Estimasi Proporsi\n\np_hat_u &lt;- mean(terima_qris)\nse_u &lt;- sqrt(p_hat_u * (1 - p_hat_u) / n_umkm)\nci_u &lt;- p_hat_u + c(-1, 1) * qnorm(0.975) * se_u\nc(n_p = n_umkm * p_hat_u, n_1mp = n_umkm * (1 - p_hat_u)) # cek syarat\n\n  n_p n_1mp \n  165    85 \n\n\n\nround(c(p_hat = p_hat_u, SE = se_u, Bawah = ci_u[1], Atas = ci_u[2]), 4)\n\n p_hat     SE  Bawah   Atas \n0.6600 0.0300 0.6013 0.7187 \n\n\n\n\n1.9.2 Langkah 2: Estimasi Rata-rata Nilai Transaksi\n\nhist(\n  nilai_trx / 1000,\n  breaks = 25,\n  col = \"#4C72B0\",\n  border = \"white\",\n  main = \"Nilai Transaksi QRIS Harian (UMKM Pengguna)\",\n  xlab = \"Ribu Rp per hari\",\n  ylab = \"Jumlah UMKM\"\n)\n\n\n\n\n\n\n\n\n\nci_trx &lt;- t.test(nilai_trx)$conf.int\nround(c(\n  n = length(nilai_trx),\n  Mean = mean(nilai_trx),\n  Median = median(nilai_trx),\n  SE = sd(nilai_trx) / sqrt(length(nilai_trx)),\n  Bawah = ci_trx[1],\n  Atas = ci_trx[2]\n))\n\n     n   Mean Median     SE  Bawah   Atas \n   165 553685 472000  24623 505065 602304 \n\n\n\n\n1.9.3 Langkah 3: Apakah CLT Dapat Diandalkan di Sini?\nDatanya menjulur kanan. Kita periksa dengan bootstrap: mengambil ulang sampel (dengan pengembalian) dari data kita sendiri untuk meniru distribusi sampling .\n\nset.seed(11)\n\nboot_mean &lt;- replicate(\n  5000,\n  mean(sample(nilai_trx, replace = TRUE))\n)\n\nhist(\n  boot_mean / 1000,\n  breaks = 40,\n  col = \"#a1d99b\",\n  border = \"white\",\n  freq = FALSE,\n  main = \"Distribusi Bootstrap Rata-rata Nilai Transaksi\",\n  xlab = \"Ribu Rp per hari\"\n)\n\ncurve(\n  dnorm(\n    x,\n    mean(nilai_trx) / 1000,\n    sd(nilai_trx) / sqrt(length(nilai_trx)) / 1000\n  ),\n  add = TRUE,\n  col = \"firebrick\",\n  lwd = 2\n)\n\n\n\n\n\n\n\n\n\nround(quantile(boot_mean, c(0.025, 0.975))) # selang bootstrap persentil 95%\n\n  2.5%  97.5% \n506082 605874 \n\n\nDistribusi bootstrap ̄𝑥 hampir berbentuk lonceng dan selang bootstrap hampir sama dengan selang t. Dengan 𝑛 = 165 pengguna, CLT bekerja baik meskipun data individunya menceng.\n\n\n1.9.4 Langkah 4: Merencanakan Survei Lanjutan\nDinas ingin survei tahun depan menghasilkan margin of error proporsi ± 3% dan rata-rata transaksi ± Rp 30.000 (kepercayaan 95%).\n\nc(\n  n_untuk_proporsi = n_prop(E = 0.03, p = p_hat_u),\n  n_pengguna_untuk_mean = n_mean(sigma = sd(nilai_trx), E = 30000)\n)\n\n     n_untuk_proporsi n_pengguna_untuk_mean \n                  958                   427 \n\n\n\n\n1.9.5 Pertanyaan Diskusi dan Jawaban\n\nBagaimana melaporkan hasil proporsi?\n“Diperkirakan proporsi UMKM kuliner yang menerima QRIS adalah sesuai hasil estimasi titik (\\(\\hat{p}\\)) dengan selang kepercayaan 95% (CI 95%) dan ukuran sampel \\(n = 250\\).” Kalimat pelaporan yang baik selalu memuat point estimate, selang kepercayaan, tingkat kepercayaan, dan ukuran sampel.\nMengapa median transaksi jauh di bawah mean, dan mana yang dilaporkan?\nDistribusinya menjulur kanan (karena ada segelintir UMKM dengan transaksi harian jauh lebih besar). Untuk menggambarkan UMKM yang tipikal, median lebih tepat. Namun jika dinas ingin menaksir total nilai transaksi (\\(\\text{mean} \\times \\text{jumlah UMKM pengguna}\\)), yang dibutuhkan justru mean beserta selangnya.\nApakah selang 95% berarti 95% UMKM bertransaksi di rentang tersebut?\nTidak. Selang kepercayaan tersebut menaksir rata-rata populasi (\\(\\mu\\)), bukan nilai transaksi tiap unit. Rentang nilai transaksi individu UMKM jauh lebih lebar—seperti yang terlihat pada histogram distribusi data.\nMengapa ukuran sampel untuk proporsi tidak dihitung dengan \\(p = 0,5\\)?\nJika sudah ada taksiran awal (\\(\\hat{p}\\)) dari survei atau studi sebelumnya, kita bisa memanfaatkannya untuk menghemat biaya dan ukuran sampel. Memakai \\(p = 0,5\\) bersifat paling konservatif (menghasilkan \\(n\\) terbesar), tetapi perbedaannya sering kali tidak terlalu jauh karena nilai \\(p(1 - p)\\) relatif landai di sekitar \\(0,5\\).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#latihan-mandiri",
+    "href": "chapters/bab-1.html#latihan-mandiri",
+    "title": "1  Distribusi Sampling",
+    "section": "1.10 Latihan Mandiri",
+    "text": "1.10 Latihan Mandiri\n\n1.10.1 Latihan Utama: Berat Kemasan Kopi Bubuk\nKonteks: Mesin pengisi kopi bubuk dirancang mengisi kemasan dengan rata-rata 250 gram. Dari data historis, simpangan baku pengisian 𝜎 = 6 gram. Petugas QC mengambil sampel acak 36 kemasan.\n\nset.seed(99)\nberat &lt;- round(rnorm(36, mean = 248.5, sd = 6), 1)\nsummary(berat)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  230.3   244.9   249.1   247.4   251.4   256.9 \n\n\n\nTugas 1: Hitung SE dan jelaskan maknanya\n\nsigma_k &lt;- 6; n_k &lt;- length(berat)\nsigma_k / sqrt(n_k)\n\n[1] 1\n\n\nJawaban: SE = 6/6 = 1 gram. Rata-rata dari 36 kemasan biasanya meleset sekitar 1 gram dari rata-rata sebenarnya – jauh lebih kecil daripada variasi berat antarkemasan (6 gram)\n\n\nTugas 2: Jika mesin bekerja benar (𝜇 = 250), berapa peluang rata-rata 36\nkemasan kurang dari 248 gram?\n\npnorm(248, mean = 250, sd = sigma_k / sqrt(n_k))\n\n[1] 0.02275013\n\n\nJawaban: 𝑧 = (248 − 250)/1 = −2, sehingga peluangnya sekitar 0.0228. Kejadian ini jarang jika mesin bekerja benar – gagasan yang menjadi dasar uji hipotesis di Pertemuan 10.\n\n\nTugas 3: Hitung CI 95% untuk rata-rata berat (𝜎 diketahui)\n\nci_z &lt;- mean(berat) + c(-1, 1) * qnorm(0.975) * sigma_k / sqrt(n_k)\nround(c(x_bar = mean(berat), Bawah = ci_z[1], Atas = ci_z[2]), 2)\n\n x_bar  Bawah   Atas \n247.40 245.44 249.36 \n\n\n\n\nTugas 4: Hitung CI 95% jika 𝜎 dianggap tidak diketahui (t)\n\nround(t.test(berat)$conf.int, 2)\n\n[1] 245.25 249.56\nattr(,\"conf.level\")\n[1] 0.95\n\n\n\nround(c(s = sd(berat), t_kritis = qt(0.975, 35), z_kritis = qnorm(0.975)), 3)\n\n       s t_kritis z_kritis \n   6.366    2.030    1.960 \n\n\n\n\nTugas 5: Tafsirkan hasilnya\nJawaban: Selang z dan selang t sangat mirip karena 𝑛 = 36 cukup besar (t kritis hanya sedikit di atas 1,96) dan 𝑠 dekat dengan 𝜎. Jika nilai 250 tidak berada di dalam selang, data memberi indikasi bahwa rata-rata pengisian mesin berbeda dari target – yang dapat dikonfirmasi dengan uji hipotesis. Hasil sampel ini: 250 berada di luar selang z.\n\n\nTugas 6 (Tantangan): Ukuran sampel\nBerapa kemasan yang harus diambil agar margin of error CI 95% hanya ± 1 gram? Dan ± 0,5 gram?\n\nc(MoE_1 = n_mean(sigma = 6, E = 1), MoE_0.5 = n_mean(sigma = 6, E = 0.5))\n\n  MoE_1 MoE_0.5 \n    139     554 \n\n\nJawaban: 139 kemasan untuk ± 1 gram dan 554 kemasan untuk ± 0,5 gram – membagi dua margin of error membutuhkan sampel empat kali lipat.\n\n\n\n1.10.2 Latihan Tambahan (Self-Check)\nKerjakan soal-soal berikut secara mandiri sebelum melihat kunci jawaban pada komentar kode. Soal A. Waktu tunggu layanan pelanggan berdistribusi menjulur kanan dengan 𝜇 = 8 menit dan 𝜎 = 6 menit. Untuk sampel acak 64 panggilan, tentukan mean, SE, dan bentuk distribusi sampling , lalu hitung ̄𝑥 𝑃( ̄𝑥 &gt; 9).\n\n# Kunci jawaban:\n# Mean = 8; SE = 6 / sqrt(64) = 0.75; bentuk mendekati normal (CLT, n = 64)\n1 - pnorm(9, mean = 8, sd = 0.75) # z = 1.33 -&gt; sekitar 0.0912\n\n[1] 0.09121122\n\n\nSoal B. Survei 1.200 pemilih menunjukkan 54% mendukung sebuah kebijakan. Hitung CI 95% dan margin of error-nya.\n\n# Kunci jawaban:\np &lt;- 0.54; n &lt;- 1200\nmoe &lt;- qnorm(0.975) * sqrt(p * (1 - p) / n) # 0.0282 -&gt; +- 2.8 poin persentase\np + c(-1, 1) * moe # 0.512 sampai 0.568\n\n[1] 0.511801 0.568199\n\n\nSoal C. Sepuluh pengukuran pH air limbah: 6,8; 7,1; 6,9; 7,4; 7,0; 6,7; 7,2; 7,3; 6,9; 7,1. Hitung CI 95% untuk rata-rata pH secara manual dengan distribusi t lalu periksa dengan t.test().\n\nph &lt;- c(6.8, 7.1, 6.9, 7.4, 7.0, 6.7, 7.2, 7.3, 6.9, 7.1)\n# Kunci jawaban:\n# x-bar = 7.04; s = 0.2171; SE = 0.0687; t(0.975, 9) = 2.262; MoE = 0.155\nmean(ph) + c(-1, 1) * qt(0.975, 9) * sd(ph) / sqrt(10) # 6.885 sampai 7.195\n\n[1] 6.881111 7.198889\n\nt.test(ph)$conf.int\n\n[1] 6.881111 7.198889\nattr(,\"conf.level\")\n[1] 0.95\n\n\nSoal D. Sebuah media menulis: “Dengan CI 95% [62%, 68%], berarti 95% warga memiliki tingkat kepuasan antara 62% dan 68%.” Perbaiki tafsiran ini.\n\n# Kunci jawaban:\n# Tafsiran keliru. Yang benar: \"Kami 95% yakin bahwa proporsi warga yang puas diseluruh\n# populasi berada antara 62% dan 68%.\" CI menaksir PARAMETER populasi (proporsiyang puas),\n# bukan rentang nilai individu.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#kesalahan-umum-dalam-sampling-distribution-dan-estimasi",
+    "href": "chapters/bab-1.html#kesalahan-umum-dalam-sampling-distribution-dan-estimasi",
+    "title": "1  Distribusi Sampling",
+    "section": "1.11 Kesalahan Umum dalam Sampling Distribution dan Estimasi",
+    "text": "1.11 Kesalahan Umum dalam Sampling Distribution dan Estimasi\n\nMenyamakan distribusi sampel dengan distribusi sampling – yang pertama berisi data individu dari satu sampel, sedangkan yang kedua berisi nilai statistik (misalnya \\(\\bar{x}\\)) dari banyak sampel berulang.\nMengira CLT membuat data menjadi normal – CLT berbicara tentang distribusi rata-rata (atau jumlah) sampel, bukan bentuk distribusi data individu.\nMenganggap \\(n \\geq 30\\) selalu cukup – data yang sangat menceng (skewed) atau memiliki banyak outlier bisa membutuhkan ukuran sampel yang jauh lebih besar.\nMenyamakan SD dan SE – SD (Standard Deviation) mengukur keragaman/sebaran data individu; SE (Standard Error) mengukur ketepatan taksiran statistik antar-sampel.\nMemakai \\(z\\) padahal \\(\\sigma\\) tidak diketahui dan \\(n\\) kecil – jika simpangan baku populasi (\\(\\sigma\\)) tidak diketahui dan diganti dengan \\(s\\), gunakan distribusi \\(t\\) (dengan \\(df = n - 1\\)).\nMenafsirkan CI sebagai peluang parameter berada di dalam selang tertentu, atau sebagai rentang nilai individu – CI menaksir parameter populasi secara prosedural, bukan rentang nilai unit/individu maupun variabel acak yang berpeluang jatuh di rentang tertentu.\nMembulatkan ukuran sampel ke bawah – hasil perhitungan ukuran sampel minimum selalu bulatkan ke atas (ceiling()) agar syarat margin of error tetap terpenuhi.\nMengira ukuran populasi menentukan ukuran sampel – untuk populasi yang cukup besar dibanding sampel, ukuran sampel ditentukan oleh margin of error (\\(E\\)), tingkat kepercayaan, dan variabilitas data (bukan ukuran populasi \\(N\\)).\nMengira sampel besar menghilangkan bias – ukuran sampel besar hanya memperkecil galat acak (random error), bukan memperbaiki metode sampling yang sejak awal bias.\nMemakai pendekatan normal untuk proporsi saat \\(n\\hat{p}\\) atau \\(n(1 - \\hat{p})\\) kurang dari 10 – jika syarat kecukupan tidak terpenuhi, distribusi proporsi sampel bisa menceng dan diskret (“berbatang”).\nMelaporkan point estimate tanpa selang atau \\(n\\) – tanpa selang kepercayaan/margin of error dan ukuran sampel, pembaca tidak dapat menilai ketepatan serta keandalan taksiran.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#cheat-sheet-fungsi-r-yang-digunakan",
+    "href": "chapters/bab-1.html#cheat-sheet-fungsi-r-yang-digunakan",
+    "title": "1  Distribusi Sampling",
+    "section": "1.12 Cheat Sheet: Fungsi R yang Digunakan",
+    "text": "1.12 Cheat Sheet: Fungsi R yang Digunakan\n\n\n\n\n\n\n\nFungsi\nKegunaan\n\n\n\n\nsample(x, n) / sample(x, replace = TRUE)\nSampel acak / sampel bootstrap\n\n\nreplicate(B, ekspresi)\nSimulasi distribusi sampling\n\n\nrgamma(), rexp(), runif(), rnorm(), rbinom(), rlnorm()\nMembangkitkan populasi/data simulasi\n\n\npnorm(q, mean, sd)\nPeluang kumulatif normal \\(P(X \\le q)\\)\n\n\nqnorm(p)\nNilai kritis \\(z\\) (misalnya qnorm(0.975) = 1,96)\n\n\ndnorm(x, mean, sd)\nKepadatan normal (untuk menggambar kurva)\n\n\nqt(p, df), pt(q, df), dt(x, df)\nNilai kritis, peluang, dan kepadatan distribusi \\(t\\)\n\n\nt.test(x, conf.level = 0.95)$conf.int\nSelang kepercayaan \\(t\\) untuk mean\n\n\ncurve(f(x), add = TRUE)\nMenambahkan kurva teoretis pada histogram\n\n\nsegments(x0, y0, x1, y1)\nMenggambar selang kepercayaan sebagai garis\n\n\nceiling(x)\nMembulatkan ke atas (ukuran sampel)\n\n\nouter(a, b, f)\nTabel nilai untuk kombinasi dua parameter\n\n\nquantile(boot, c(0.025, 0.975))\nSelang bootstrap persentil",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#glosarium-istilah",
+    "href": "chapters/bab-1.html#glosarium-istilah",
+    "title": "1  Distribusi Sampling",
+    "section": "1.13 Glosarium Istilah",
+    "text": "1.13 Glosarium Istilah\n\n\n\n\n\n\n\nIstilah\nDefinisi Singkat\n\n\n\n\nStatistika Inferensial\nMenarik kesimpulan tentang populasi dari sampel\n\n\nDistribusi Sampling\nDistribusi sebuah statistik dari semua kemungkinan sampel berukuran \\(n\\)\n\n\nPenaksir Tak Bias\nStatistik yang rata-rata distribusi samplingnya sama dengan parameter\n\n\nCentral Limit Theorem\nDistribusi \\(\\bar{x}\\) mendekati normal untuk \\(n\\) besar, apa pun bentuk populasinya\n\n\nStandard Error (SE)\nSimpangan baku distribusi sampling sebuah statistik\n\n\nKoreksi Populasi Terhingga\nFaktor \\(\\sqrt{(N - n)/(N - 1)}\\) bila sampel lebih dari sekitar 5% populasi\n\n\nPoint Estimate\nSatu nilai yang menaksir parameter\n\n\nConfidence Interval\nRentang nilai yang masuk akal bagi parameter dengan tingkat kepercayaan tertentu\n\n\nTingkat Kepercayaan\nPersentase selang (dari pengulangan prosedur) yang memuat parameter\n\n\nMargin of Error\nNilai kritis \\(\\times\\) SE; setengah lebar selang\n\n\nNilai Kritis\nNilai dari distribusi \\(z\\) atau \\(t\\) yang menentukan lebar selang\n\n\nDistribusi t\nDistribusi berekor tebal yang dipakai bila \\(\\sigma\\) ditaksir dengan \\(s\\)\n\n\nDerajat Bebas (df)\nParameter distribusi \\(t\\); \\(n - 1\\) untuk satu mean\n\n\nBootstrap\nPengambilan sampel ulang dengan pengembalian dari data untuk meniru distribusi sampling",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#rangkuman-dan-kesimpulan",
+    "href": "chapters/bab-1.html#rangkuman-dan-kesimpulan",
+    "title": "1  Distribusi Sampling",
+    "section": "1.14 Rangkuman dan Kesimpulan",
+    "text": "1.14 Rangkuman dan Kesimpulan\n\nDistribusi sampling menggambarkan bagaimana sebuah statistik bervariasi dari sampel ke sampel; ia adalah fondasi seluruh statistika inferensial.\n\\(\\bar{x}\\) dan \\(\\hat{p}\\) adalah penaksir tak bias dengan SE masing-masing \\(\\sigma / \\sqrt{n}\\) dan \\(\\sqrt{p(1 - p) / n}\\).\nCLT menjamin distribusi \\(\\bar{x}\\) mendekati normal untuk \\(n\\) cukup besar, apa pun bentuk populasinya; makin menceng populasi, makin besar \\(n\\) yang dibutuhkan.\nSE bukan SD: SE mengecil sebanding \\(1 / \\sqrt{n}\\) — presisi dua kali lipat membutuhkan sampel empat kali lipat.\nSelang kepercayaan \\(= \\text{point estimate} \\pm \\text{nilai kritis} \\times \\text{SE}\\). Gunakan \\(z\\) bila \\(\\sigma\\) diketahui, \\(t\\) bila \\(\\sigma\\) ditaksir. Kepercayaan 95% adalah sifat prosedur, bukan peluang untuk satu selang.\nUkuran sampel dapat direncanakan dari margin of error yang diinginkan — tetapi tidak dapat menyembuhkan bias sampling.\n\n\nJembatan ke sesi berikutnya: Tugas 2 latihan tadi bertanya, “jika mesin bekerja benar, seberapa jarang hasil seperti ini?” Pertanyaan itulah inti uji hipotesis di Pertemuan 10: \\(H_0\\), \\(H_1\\), tingkat signifikansi, p-value, dan kesalahan Tipe I dan II.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-1.html#interpretasi-pemahaman-pribadi",
+    "href": "chapters/bab-1.html#interpretasi-pemahaman-pribadi",
+    "title": "1  Distribusi Sampling",
+    "section": "1.15 Interpretasi Pemahaman Pribadi",
+    "text": "1.15 Interpretasi Pemahaman Pribadi\n\nData individu di populasi dan di satu sampel bentuknya bisa miring atau tidak beraturan, sedangkan distribusi sampling adalah sebaran nilai rata-rata (\\(\\bar{x}\\)) jika pengambilan sampel dilakukan berkali-kali.\nMelalui Central Limit Theorem (CLT), sebaran nilai rata-rata sampel akan cenderung membentuk kurva lonceng (normal) apabila ukuran sampelnya cukup besar (umumnya \\(n \\ge 30\\)), meskipun bentuk data aslinya menceng.\nStandard Deviation (SD) mengukur keragaman data antarindividu yang nilainya relatif tetap walau sampel ditambah, sedangkan Standard Error (SE) mengukur ketepatan rata-rata sampel terhadap populasi yang nilainya mengecil seiring bertambahnya sampel (\\(1/\\sqrt{n}\\)).\nKarena SE berbanding terbalik dengan akar ukuran sampel, memperkecil tingkat melesetnya tebakan menjadi setengah kali lipat membutuhkan jumlah sampel empat kali lebih banyak.\nUntuk variabel kategorik biner seperti ya atau tidak, distribusi proporsi sampel (\\(\\hat{p}\\)) dapat didekati dengan kurva normal apabila syarat kecukupan sampel \\(np \\ge 10\\) dan \\(n(1-p) \\ge 10\\) terpenuhi.\nMenebak parameter populasi dengan satu angka tunggal (point estimate) rentan meleset sehingga lebih aman memakai rentang toleransi berupa Confidence Interval (selang kepercayaan).\nPerhitungan Confidence Interval untuk rata-rata memakai distribusi \\(z\\) jika simpangan baku populasi (\\(\\sigma\\)) diketahui, dan memakai distribusi \\(t\\) jika \\(\\sigma\\) tidak diketahui sehingga harus ditaksir dari sampel (\\(s\\)).\nTingkat kepercayaan 95% bermakna sekitar 95% rentang yang terbentuk dari pengulangan prosedur survei yang sama akan memuat nilai populasi yang asli, bukan berarti 95% individu berada di rentang angka tersebut.\nLebar selang kepercayaan akan melebar jika tingkat kepercayaan dinaikkan atau data makin beragam, dan akan menyempit jika ukuran sampel diperbesar.\nUkuran sampel minimum dapat direncanakan di awal berdasarkan margin of error yang diinginkan dengan pembulatan ke atas, namun sampel sebesar apa pun tidak bisa memperbaiki metode pengambilan data yang sejak awal sudah bias.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Distribusi Sampling</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#logika-uji-hipotesis",
+    "href": "chapters/bab-2.html#logika-uji-hipotesis",
+    "title": "2  Hypothesis Testing",
+    "section": "",
+    "text": "Pengadilan\nUji Hipotesis\n\n\n\n\nPraduga tak bersalah\n\\(H_0\\) diasumsikan benar\n\n\nTuduhan jaksa\n\\(H_1\\) (klaim yang ingin dibuktikan)\n\n\nBukti di persidangan\nData sampel dan statistik uji\n\n\nStandar “tanpa keraguan yang wajar”\nTingkat signifikansi \\(\\alpha\\)\n\n\nPutusan bersalah\nTolak \\(H_0\\)\n\n\nPutusan tidak terbukti bersalah\nGagal menolak \\(H_0\\) (bukan “menerima \\(H_0\\)”)\n\n\nMenghukum orang tak bersalah\nKesalahan Tipe I\n\n\nMembebaskan orang bersalah\nKesalahan Tipe II\n\n\n\n\n2.1.1 Ilustrasi: Apakah Mesin Pengisi Masih Tepat?\nMelanjutkan latihan Pertemuan 9: mesin kopi bubuk seharusnya mengisi rata-rata 250 gram dengan \\(\\sigma = 6\\) gram. Sampel 36 kemasan menghasilkan \\(\\bar{x} = 247{,}6\\) gram. Apakah mesin perlu dikalibrasi, atau selisih 2,4 gram itu sekadar kebetulan sampling?\nJika mesin benar (\\(\\mu = 250\\)), maka menurut CLT \\(\\bar{x} \\sim N(250,\\ 6/\\sqrt{36} = 1)\\). Kita lihat seberapa “jauh” 247,6 dari distribusi tersebut:\n\nmu0 &lt;- 250; sigma &lt;- 6; n &lt;- 36; xbar &lt;- 247.6\nse &lt;- sigma / sqrt(n)\nset.seed(10)\nxbar_jika_H0 &lt;- replicate(100000, mean(rnorm(n, mu0, sigma)))\nhist(xbar_jika_H0, breaks = 60, col = \"#c6dbef\", border = \"white\", freq = FALSE,\n     main = \"Distribusi x-bar JIKA mesin bekerja benar (mu = 250)\",\n     xlab = \"Rata-rata 36 kemasan (gram)\")\nabline(v = c(xbar, 2 * mu0 - xbar), col = \"firebrick\", lwd = 2, lty = c(1, 2))\n\n\n\n\n\n\n\nGambar 2.1: Distribusi rata-rata sampel jika H0 benar\n\n\n\n\n\n\nmean(abs(xbar_jika_H0 - mu0) &gt;= abs(xbar - mu0))  # seberapa sering selisih sebesar ini terjadi\n\n[1] 0.01579\n\n\nJika mesin benar, rata-rata yang meleset 2,4 gram atau lebih (ke arah mana pun) hanya terjadi sekitar 1.6% dari waktu. Angka inilah yang disebut p-value. Karena sangat jarang, kita punya alasan kuat untuk meragukan bahwa mesin bekerja benar.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#merumuskan-hipotesis",
+    "href": "chapters/bab-2.html#merumuskan-hipotesis",
+    "title": "2  Hypothesis Testing",
+    "section": "2.2 Merumuskan Hipotesis",
+    "text": "2.2 Merumuskan Hipotesis\n\n2.2.1 Hipotesis Nol dan Alternatif\n\n\n\n\n\n\n\n\n\nHipotesis Nol (\\(H_0\\))\nHipotesis Alternatif (\\(H_1\\) atau \\(H_a\\))\n\n\n\n\nIsi\n“Tidak ada efek, perbedaan, atau perubahan”; status quo\nKlaim yang ingin dibuktikan peneliti\n\n\nTanda\nSelalu memuat kesamaan: \\(=\\), \\(\\le\\), atau \\(\\ge\\)\n\\(\\ne\\), \\(&gt;\\), atau \\(&lt;\\)\n\n\nPosisi dalam uji\nDiasumsikan benar selama perhitungan\nDiterima hanya jika bukti kuat\n\n\n\nAturan penting: hipotesis selalu dinyatakan tentang parameter populasi (\\(\\mu\\), \\(p\\), \\(\\sigma\\)), bukan statistik sampel. Menulis “\\(H_0: \\bar{x} = 250\\)” adalah keliru, karena \\(\\bar{x}\\) sudah kita ketahui.\n\n\n2.2.2 Tiga Bentuk Hipotesis\n\n\n\n\n\n\n\n\n\n\nBentuk\n\\(H_0\\)\n\\(H_1\\)\nDaerah penolakan\nContoh pertanyaan\n\n\n\n\nDua arah\n\\(\\mu = \\mu_0\\)\n\\(\\mu \\ne \\mu_0\\)\nKedua ekor\n“Apakah rata-rata pengisian berbeda dari 250 g?”\n\n\nSatu arah kanan\n\\(\\mu \\le \\mu_0\\)\n\\(\\mu &gt; \\mu_0\\)\nEkor kanan\n“Apakah rata-rata TSS melebihi baku mutu?”\n\n\nSatu arah kiri\n\\(\\mu \\ge \\mu_0\\)\n\\(\\mu &lt; \\mu_0\\)\nEkor kiri\n“Apakah umur baterai kurang dari klaim 20 jam?”\n\n\n\n\n\n2.2.3 Menerjemahkan Kalimat Menjadi Hipotesis\n\n\n\nKata kunci dalam klaim\nTanda di \\(H_1\\)\n\n\n\n\nberbeda, berubah, tidak sama\n\\(\\ne\\)\n\n\nlebih dari, meningkat, melebihi, lebih baik\n\\(&gt;\\)\n\n\nkurang dari, menurun, lebih rendah, lebih cepat (waktu)\n\\(&lt;\\)\n\n\n\n\n\n\n\n\n\nPeringatan\n\n\n\nTentukan arah sebelum melihat data. Memilih uji satu arah setelah melihat arah selisih pada data adalah kecurangan: p-value menjadi separuhnya secara tidak sah. Jika ragu, gunakan uji dua arah.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#komponen-uji-hipotesis",
+    "href": "chapters/bab-2.html#komponen-uji-hipotesis",
+    "title": "2  Hypothesis Testing",
+    "section": "2.3 Komponen Uji Hipotesis",
+    "text": "2.3 Komponen Uji Hipotesis\n\n2.3.1 Tingkat Signifikansi (\\(\\alpha\\))\n\\(\\alpha\\) adalah batas peluang kesalahan Tipe I yang bersedia kita tanggung – peluang menolak \\(H_0\\) padahal \\(H_0\\) benar. Nilai yang umum: 0,05; 0,01; atau 0,10. \\(\\alpha\\) ditetapkan sebelum data dianalisis, berdasarkan seberapa mahal akibat kesalahan Tipe I.\n\n\n2.3.2 Statistik Uji\nStatistik uji mengukur seberapa jauh estimasi sampel dari nilai \\(H_0\\), dalam satuan standard error:\n\\[\n\\text{statistik uji} = \\frac{\\text{estimasi} - \\text{nilai di } H_0}{SE}\n\\qquad\nz = \\frac{\\bar{x} - \\mu_0}{\\sigma/\\sqrt{n}}\n\\]\n\nz_hitung &lt;- (xbar - mu0) / se\nz_hitung\n\n[1] -2.4\n\n\nRata-rata sampel berada 2.4 standard error di bawah nilai yang diklaim.\n\n\n2.3.3 Nilai Kritis dan Daerah Penolakan\nNilai kritis adalah batas yang memisahkan daerah “tidak mengejutkan” dan daerah penolakan, ditentukan oleh \\(\\alpha\\) dan arah uji.\n\nalpha &lt;- 0.05\nc(Dua_arah = qnorm(1 - alpha / 2), Kanan = qnorm(1 - alpha), Kiri = qnorm(alpha))\n\n Dua_arah     Kanan      Kiri \n 1.959964  1.644854 -1.644854 \n\n\n\ngambar_daerah &lt;- function(arah, judul, alpha = 0.05) {\n  x &lt;- seq(-4, 4, length.out = 400)\n  plot(x, dnorm(x), type = \"l\", lwd = 2, main = judul, xlab = \"z\", ylab = \"\", yaxt = \"n\")\n  arsir &lt;- function(a, b) polygon(c(a, seq(a, b, length.out = 100), b),\n                                  c(0, dnorm(seq(a, b, length.out = 100)), 0),\n                                  col = rgb(0.8, 0.2, 0.2, 0.5), border = NA)\n  if (arah == \"dua\")    { k &lt;- qnorm(1 - alpha / 2); arsir(-4, -k); arsir(k, 4) }\n  if (arah == \"kanan\")  { k &lt;- qnorm(1 - alpha); arsir(k, 4) }\n  if (arah == \"kiri\")   { k &lt;- qnorm(alpha); arsir(-4, k) }\n}\npar(mfrow = c(1, 3))\ngambar_daerah(\"dua\", \"Dua arah (1,96)\")\ngambar_daerah(\"kanan\", \"Kanan (1,645)\")\ngambar_daerah(\"kiri\", \"Kiri (-1,645)\")\npar(mfrow = c(1, 1))\n\n\n\n\n\n\n\nGambar 2.2: Daerah penolakan uji dua arah, kanan, dan kiri\n\n\n\n\n\nDaerah merah adalah daerah penolakan, luasnya \\(\\alpha = 0{,}05\\). Pada uji dua arah, \\(\\alpha\\) dibagi dua ke kedua ekor.\n\n\n2.3.4 P-Value\n\n\n\n\n\n\nPenting\n\n\n\nP-value adalah peluang memperoleh statistik uji seekstrem atau lebih ekstrem daripada yang teramati, dengan asumsi \\(H_0\\) benar.\n\n\n\n\n\nArah uji\nP-value\n\n\n\n\nDua arah\n\\(2 \\times P(Z \\ge \\lvert z \\rvert)\\)\n\n\nKanan\n\\(P(Z \\ge z)\\)\n\n\nKiri\n\\(P(Z \\le z)\\)\n\n\n\n\np_dua &lt;- 2 * (1 - pnorm(abs(z_hitung)))\np_dua\n\n[1] 0.01639507\n\n\n\nx &lt;- seq(-4, 4, length.out = 400)\nplot(x, dnorm(x), type = \"l\", lwd = 2, xlab = \"z\", ylab = \"\", yaxt = \"n\",\n     main = paste0(\"P-value dua arah = luas kedua ekor = \", round(p_dua, 4)))\nfor (bts in list(c(-4, -abs(z_hitung)), c(abs(z_hitung), 4))) {\n  xs &lt;- seq(bts[1], bts[2], length.out = 100)\n  polygon(c(bts[1], xs, bts[2]), c(0, dnorm(xs), 0), col = rgb(0.2, 0.4, 0.8, 0.5), border = NA)\n}\nabline(v = c(-1.96, 1.96), lty = 2, col = \"firebrick\")\ntext(z_hitung, 0.05, labels = paste0(\"z = \", round(z_hitung, 2)), pos = 3)\n\n\n\n\n\n\n\nGambar 2.3: P-value dua arah sebagai luas kedua ekor\n\n\n\n\n\n\n\n2.3.5 Keputusan: Dua Pendekatan yang Setara\n\n\n\n\n\n\n\n\nPendekatan\nTolak \\(H_0\\) jika\nContoh mesin kopi\n\n\n\n\nNilai kritis\nStatistik uji jatuh di daerah penolakan\n\\(\\lvert z \\rvert = 2{,}4 &gt; 1{,}96 \\Rightarrow\\) tolak\n\n\nP-value\np-value \\(\\le \\alpha\\)\n\\(0{,}0164 \\le 0{,}05 \\Rightarrow\\) tolak\n\n\n\nKedua pendekatan selalu memberi keputusan yang sama. Pendekatan p-value lebih informatif karena menunjukkan seberapa kuat buktinya, bukan sekadar lolos atau tidak.\n\n\n\nP-value\nKekuatan bukti melawan \\(H_0\\) (pedoman kasar)\n\n\n\n\n\\(&gt; 0{,}10\\)\nLemah/tidak ada\n\n\n\\(0{,}05\\)–\\(0{,}10\\)\nLemah–sedang\n\n\n\\(0{,}01\\)–\\(0{,}05\\)\nCukup kuat\n\n\n\\(&lt; 0{,}01\\)\nSangat kuat\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n“Gagal menolak \\(H_0\\)” tidak sama dengan “\\(H_0\\) benar”. Sama seperti “tidak terbukti bersalah” tidak berarti “terbukti tidak bersalah”. Bisa jadi efeknya memang ada tetapi sampel kita terlalu kecil untuk mendeteksinya.\n\n\n\n\n2.3.6 Prosedur Lima Langkah\n\n\n\n\n\n\n\nLangkah\nIsi\n\n\n\n\n1\nRumuskan \\(H_0\\) dan \\(H_1\\) (tentukan arah)\n\n\n2\nTetapkan \\(\\alpha\\)\n\n\n3\nPilih uji yang sesuai, periksa asumsi, hitung statistik uji\n\n\n4\nTentukan nilai kritis dan/atau p-value, ambil keputusan\n\n\n5\nTulis kesimpulan dalam konteks masalah (bukan sekadar “tolak \\(H_0\\)”)\n\n\n\nKita bungkus perhitungan uji z satu sampel dalam sebuah fungsi agar dapat dipakai ulang.\n\nuji_z &lt;- function(xbar, mu0, sigma, n, arah = c(\"dua\", \"kanan\", \"kiri\"), alpha = 0.05) {\n  arah &lt;- match.arg(arah)\n  z &lt;- (xbar - mu0) / (sigma / sqrt(n))\n  p &lt;- switch(arah, dua = 2 * (1 - pnorm(abs(z))), kanan = 1 - pnorm(z), kiri = pnorm(z))\n  kritis &lt;- switch(arah, dua = qnorm(1 - alpha / 2), kanan = qnorm(1 - alpha), kiri = qnorm(alpha))\n  data.frame(z = round(z, 4), z_kritis = round(kritis, 4), p_value = signif(p, 4),\n             keputusan = ifelse(p &lt;= alpha, \"Tolak H0\", \"Gagal menolak H0\"))\n}\n\n\n\n2.3.7 Contoh 1 (Dua Arah): Mesin Pengisi Kopi\n\n\\(H_0: \\mu = 250\\) gram (mesin tepat); \\(H_1: \\mu \\ne 250\\) gram (mesin perlu dikalibrasi).\n\\(\\alpha = 0{,}05\\).\n\\(\\sigma\\) diketahui (6 g), \\(n = 36\\), uji z: \\(z = (247{,}6 - 250)/1 = -2{,}4\\).\n\n\nuji_z(xbar = 247.6, mu0 = 250, sigma = 6, n = 36, arah = \"dua\")\n\n     z z_kritis p_value keputusan\n1 -2.4     1.96  0.0164  Tolak H0\n\n\n\n\\(\\lvert z \\rvert = 2{,}4 &gt; 1{,}96\\) dan p-value \\(\\approx 0{,}016 &lt; 0{,}05 \\Rightarrow\\) tolak \\(H_0\\).\nKesimpulan: pada taraf signifikansi 5%, terdapat bukti yang cukup bahwa rata-rata pengisian mesin berbeda dari 250 gram (data menunjukkan cenderung kurang). Mesin sebaiknya diperiksa dan dikalibrasi.\n\n\n\n2.3.8 Contoh 2 (Satu Arah Kanan): Klaim Waktu Pengiriman\nSebuah layanan logistik mengklaim rata-rata waktu pengirimannya paling lama 48 jam. Asosiasi konsumen curiga waktunya lebih lama. Data historis menunjukkan \\(\\sigma = 10\\) jam. Sampel 50 pengiriman menghasilkan \\(\\bar{x} = 50{,}1\\) jam.\n\n\\(H_0: \\mu \\le 48\\) (klaim benar); \\(H_1: \\mu &gt; 48\\) (klaim tidak benar – lebih lama).\n\\(\\alpha = 0{,}05\\).\n\n\nuji_z(xbar = 50.1, mu0 = 48, sigma = 10, n = 50, arah = \"kanan\")\n\n       z z_kritis p_value        keputusan\n1 1.4849   1.6449 0.06878 Gagal menolak H0\n\n\nKesimpulan: p-value \\(\\approx 0{,}069 &gt; 0{,}05\\), sehingga gagal menolak \\(H_0\\). Pada taraf 5%, bukti belum cukup untuk menyatakan rata-rata waktu pengiriman melebihi 48 jam. Ini tidak membuktikan klaim perusahaan benar; dengan p-value 0,07, ada indikasi lemah yang layak ditindaklanjuti dengan sampel lebih besar.\nPerhatikan: jika asosiasi konsumen memakai uji dua arah, p-value-nya menjadi dua kali lipat (sekitar 0,14). Arah uji harus ditentukan dari pertanyaan penelitian sebelum melihat data.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#hubungan-uji-dua-arah-dan-selang-kepercayaan",
+    "href": "chapters/bab-2.html#hubungan-uji-dua-arah-dan-selang-kepercayaan",
+    "title": "2  Hypothesis Testing",
+    "section": "2.4 Hubungan Uji Dua Arah dan Selang Kepercayaan",
+    "text": "2.4 Hubungan Uji Dua Arah dan Selang Kepercayaan\nUji dua arah dengan taraf \\(\\alpha\\) setara dengan memeriksa apakah \\(\\mu_0\\) berada di dalam selang kepercayaan \\((1-\\alpha)\\times 100\\%\\):\n\n\\(\\mu_0\\) di luar CI 95% \\(\\iff\\) tolak \\(H_0\\) pada \\(\\alpha = 0{,}05\\) (dua arah).\n\\(\\mu_0\\) di dalam CI 95% \\(\\iff\\) gagal menolak \\(H_0\\).\n\n\nci &lt;- 247.6 + c(-1, 1) * qnorm(0.975) * 6 / sqrt(36)\nround(ci, 3)\n\n[1] 245.64 249.56\n\n250 &gt;= ci[1] & 250 &lt;= ci[2]   # FALSE -&gt; 250 di luar selang -&gt; konsisten dengan \"tolak H0\"\n\n[1] FALSE\n\n\nSelang kepercayaan lebih informatif: selain keputusan, ia menunjukkan rentang nilai \\(\\mu\\) yang masuk akal – di sini rata-rata pengisian kemungkinan antara 245.6 dan 249.6 gram, sehingga kekurangannya kemungkinan antara 0.4 dan 4.4 gram per kemasan.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#kesalahan-tipe-i-tipe-ii-dan-power",
+    "href": "chapters/bab-2.html#kesalahan-tipe-i-tipe-ii-dan-power",
+    "title": "2  Hypothesis Testing",
+    "section": "2.5 Kesalahan Tipe I, Tipe II, dan Power",
+    "text": "2.5 Kesalahan Tipe I, Tipe II, dan Power\n\n2.5.1 Tabel Keputusan\n\n\n\n\n\n\n\n\n\n\\(H_0\\) benar\n\\(H_0\\) salah\n\n\n\n\nTolak \\(H_0\\)\nKesalahan Tipe I (false positive), peluang \\(= \\alpha\\)\nKeputusan benar, peluang \\(=\\) power \\(= 1-\\beta\\)\n\n\nGagal menolak \\(H_0\\)\nKeputusan benar, peluang \\(= 1-\\alpha\\)\nKesalahan Tipe II (false negative), peluang \\(= \\beta\\)\n\n\n\n\n\n\n\n\n\n\n\nKonteks\nKesalahan Tipe I\nKesalahan Tipe II\n\n\n\n\nMesin pengisi (\\(H_0\\): mesin tepat)\nMenghentikan produksi untuk kalibrasi padahal mesin baik\nMesin terus mengisi kurang; konsumen dirugikan\n\n\nTes penyakit (\\(H_0\\): sehat)\nOrang sehat didiagnosis sakit\nOrang sakit tidak terdeteksi\n\n\nFilter spam (\\(H_0\\): bukan spam)\nEmail penting masuk folder spam\nSpam lolos ke kotak masuk\n\n\nUji A/B (\\(H_0\\): desain baru tidak lebih baik)\nMeluncurkan desain yang sebenarnya tidak lebih baik\nMelewatkan desain yang sebenarnya lebih baik\n\n\n\n\n\n2.5.2 Simulasi: Kesalahan Tipe I Terjadi Sekitar \\(\\alpha\\) dari Waktu\nJika mesin benar-benar tepat (\\(\\mu = 250\\)) dan kita menguji 10.000 sampel berbeda, berapa kali kita keliru menolak \\(H_0\\)?\n\nset.seed(101)\np_values_H0 &lt;- replicate(10000, {\n  x &lt;- rnorm(36, mean = 250, sd = 6)\n  z &lt;- (mean(x) - 250) / (6 / 6)\n  2 * (1 - pnorm(abs(z)))\n})\nmean(p_values_H0 &lt;= 0.05)   # proporsi kesalahan Tipe I\n\n[1] 0.0482\n\n\n\nhist(p_values_H0, breaks = 20, col = \"#c6dbef\", border = \"white\",\n     main = \"Distribusi p-value ketika H0 BENAR: seragam\", xlab = \"p-value\", ylab = \"Frekuensi\")\nabline(v = 0.05, col = \"firebrick\", lwd = 2)\n\n\n\n\n\n\n\nGambar 2.4: Distribusi p-value ketika H0 benar\n\n\n\n\n\nKetika \\(H_0\\) benar, p-value tersebar merata antara 0 dan 1; sekitar 5% di antaranya jatuh di bawah 0,05 murni karena kebetulan. Itulah makna \\(\\alpha\\).\n\n\n2.5.3 Simulasi: Kesalahan Tipe II dan Power\nSekarang anggap mesin benar-benar mengisi rata-rata 248 gram (\\(H_0\\) salah). Seberapa sering uji kita mendeteksinya?\n\npower_sim &lt;- function(mu_benar, n, alpha = 0.05, B = 5000) {\n  mean(replicate(B, {\n    z &lt;- (mean(rnorm(n, mu_benar, 6)) - 250) / (6 / sqrt(n))\n    2 * (1 - pnorm(abs(z))) &lt;= alpha\n  }))\n}\npower_teori &lt;- function(mu_benar, n, alpha = 0.05) {\n  k &lt;- qnorm(1 - alpha / 2); d &lt;- (mu_benar - 250) / (6 / sqrt(n))\n  pnorm(-k - d) + 1 - pnorm(k - d)\n}\nset.seed(102)\nc(Power_simulasi = power_sim(248, 36), Power_teori = round(power_teori(248, 36), 4),\n  Beta_teori = round(1 - power_teori(248, 36), 4))\n\nPower_simulasi    Power_teori     Beta_teori \n        0.5078         0.5160         0.4840 \n\n\nDengan \\(n = 36\\), uji hanya mendeteksi selisih 2 gram sekitar 52% dari waktu; sekitar 48% dari waktu mesin yang salah setel lolos (kesalahan Tipe II).\n\n\n2.5.4 Kurva Power: Faktor yang Memengaruhi\n\nmu_seq &lt;- seq(245, 255, by = 0.05)\nplot(mu_seq, power_teori(mu_seq, 36), type = \"l\", lwd = 2, col = \"#4C72B0\", ylim = c(0, 1),\n     xlab = \"Rata-rata pengisian sebenarnya (gram)\", ylab = \"Power = P(tolak H0)\",\n     main = \"Kurva Power Uji Dua Arah (H0: mu = 250)\")\nlines(mu_seq, power_teori(mu_seq, 100), lwd = 2, col = \"#DD8452\")\nlines(mu_seq, power_teori(mu_seq, 36, alpha = 0.01), lwd = 2, lty = 2, col = \"#4C72B0\")\nabline(h = c(0.05, 0.8), lty = 3, col = \"grey50\")\nlegend(\"top\", bty = \"n\", lwd = 2, lty = c(1, 1, 2), col = c(\"#4C72B0\", \"#DD8452\", \"#4C72B0\"), cex = 0.8,\n       legend = c(\"n = 36, alpha = 0,05\", \"n = 100, alpha = 0,05\", \"n = 36, alpha = 0,01\"))\n\n\n\n\n\n\n\nGambar 2.5: Kurva power uji dua arah\n\n\n\n\n\n\n\n\n\n\n\n\n\nFaktor\nJika dinaikkan\nPower\n\n\n\n\nBesar efek sebenarnya (\\(\\lvert\\mu-\\mu_0\\rvert\\))\nSelisih makin besar\nNaik\n\n\nUkuran sampel \\(n\\)\nSE mengecil\nNaik\n\n\n\\(\\alpha\\)\nDaerah penolakan melebar\nNaik (tetapi risiko Tipe I naik)\n\n\nVariabilitas \\(\\sigma\\)\nSE membesar\nTurun\n\n\n\nTepat di \\(\\mu = 250\\) (saat \\(H_0\\) benar), kurva menyentuh \\(0{,}05 = \\alpha\\). Trade-off: memperkecil \\(\\alpha\\) (garis putus-putus) mengurangi kesalahan Tipe I tetapi menurunkan power (menambah kesalahan Tipe II). Satu-satunya cara mengurangi keduanya sekaligus adalah memperbesar sampel.\nKonvensi yang umum dipakai: rancang studi agar power minimal 0,80 untuk efek terkecil yang dianggap penting.\n\nn_power &lt;- function(delta, sigma, alpha = 0.05, power = 0.80) {\n  ceiling(((qnorm(1 - alpha / 2) + qnorm(power)) * sigma / delta)^2)\n}\nn_power(delta = 2, sigma = 6)   # sampel agar selisih 2 gram terdeteksi dengan power 80%\n\n[1] 71",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#menafsirkan-hasil-uji-dengan-bijak",
+    "href": "chapters/bab-2.html#menafsirkan-hasil-uji-dengan-bijak",
+    "title": "2  Hypothesis Testing",
+    "section": "2.6 Menafsirkan Hasil Uji dengan Bijak",
+    "text": "2.6 Menafsirkan Hasil Uji dengan Bijak\n\n2.6.1 Signifikansi Statistik vs Signifikansi Praktis\nDengan sampel sangat besar, selisih yang sangat kecil pun menjadi “signifikan secara statistik”.\n\nknitr::kable(rbind(\n  \"n = 36\"      = uji_z(xbar = 249.8, mu0 = 250, sigma = 6, n = 36),\n  \"n = 100.000\" = uji_z(xbar = 249.8, mu0 = 250, sigma = 6, n = 100000)\n), caption = \"Selisih 0,2 gram: tidak signifikan vs sangat signifikan\")\n\n\nSelisih 0,2 gram: tidak signifikan vs sangat signifikan\n\n\n\nz\nz_kritis\np_value\nkeputusan\n\n\n\n\nn = 36\n-0.2000\n1.96\n0.8415\nGagal menolak H0\n\n\nn = 100.000\n-10.5409\n1.96\n0.0000\nTolak H0\n\n\n\n\n\nSelisih 0,2 gram per kemasan (0,08%) kemungkinan tidak penting secara praktis, meskipun signifikan secara statistik pada \\(n = 100.000\\). Karena itu, selalu laporkan besar efek (selisih dan selang kepercayaannya), bukan hanya p-value.\n\n\n2.6.2 Miskonsepsi tentang P-Value\n\n\n\n\n\n\n\n\nPernyataan\nBenar/Salah\nPenjelasan\n\n\n\n\n“p = 0,016 berarti peluang \\(H_0\\) benar adalah 1,6%.”\nSalah\nP-value dihitung dengan asumsi \\(H_0\\) benar; ia bukan peluang \\(H_0\\) benar\n\n\n“p = 0,016 berarti peluang hasil ini terjadi karena kebetulan adalah 1,6%.”\nSalah\nSama dengan di atas, dengan kata-kata berbeda\n\n\n“p &gt; 0,05 membuktikan tidak ada efek.”\nSalah\nBisa jadi power rendah (sampel kecil)\n\n\n“p yang lebih kecil berarti efeknya lebih besar.”\nSalah\nP-value dipengaruhi besar efek dan ukuran sampel\n\n\n“p = 0,049 dan p = 0,051 memberi bukti yang sangat berbeda.”\nSalah\nKeduanya menunjukkan kekuatan bukti yang hampir sama\n\n\n“Jika \\(H_0\\) benar, p-value kurang dari 0,05 terjadi sekitar 5% dari waktu.”\nBenar\nInilah makna \\(\\alpha\\)\n\n\n\n\n\n2.6.3 Bahaya Uji Berganda (P-Hacking)\nJika kita menguji banyak hipotesis sekaligus – atau mencoba banyak cara analisis sampai ada yang “signifikan” – peluang setidaknya satu kesalahan Tipe I melonjak.\n\nk &lt;- c(1, 5, 10, 20, 50)\ndata.frame(Banyak_uji = k, P_minimal_satu_false_positive = round(1 - (1 - 0.05)^k, 3))\n\n  Banyak_uji P_minimal_satu_false_positive\n1          1                         0.050\n2          5                         0.226\n3         10                         0.401\n4         20                         0.642\n5         50                         0.923\n\n\n\nset.seed(103)\n# 20 \"fitur\" acak tanpa hubungan apa pun dengan target, masing-masing diuji\np20 &lt;- replicate(20, { x &lt;- rnorm(30, 0, 1); 2 * (1 - pnorm(abs(mean(x) / (1 / sqrt(30))))) })\nsum(p20 &lt;= 0.05)\n\n[1] 1\n\n\nDengan 20 uji independen, peluang setidaknya satu hasil “signifikan” padahal semua \\(H_0\\) benar adalah sekitar 64%. Solusi sederhana adalah koreksi Bonferroni: pakai \\(\\alpha/k\\) untuk setiap uji (misalnya \\(0{,}05/20 = 0{,}0025\\)), atau tetapkan satu hipotesis utama sebelum melihat data.\n\nsum(p20 &lt;= 0.05 / 20)\n\n[1] 0\n\np.adjust(sort(p20)[1:3], method = \"bonferroni\", n = 20)\n\n[1] 0.766256 1.000000 1.000000",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#studi-kasus-komprehensif-kepatuhan-baku-mutu-tss",
+    "href": "chapters/bab-2.html#studi-kasus-komprehensif-kepatuhan-baku-mutu-tss",
+    "title": "2  Hypothesis Testing",
+    "section": "2.7 Studi Kasus Komprehensif: Kepatuhan Baku Mutu TSS",
+    "text": "2.7 Studi Kasus Komprehensif: Kepatuhan Baku Mutu TSS\nKonteks: Sebuah perusahaan membuang air olahan ke sungai dengan baku mutu TSS (misalnya) 50 mg/L untuk rata-rata bulanan. Regulator mengambil 30 sampel acak dalam sebulan. Dari pemantauan panjang, simpangan baku pengukuran diketahui \\(\\sigma = 12\\) mg/L.\n\nset.seed(2026)\ntss &lt;- round(rnorm(30, mean = 54, sd = 12), 1)\nround(c(n = length(tss), Mean = mean(tss), SD = sd(tss), Median = median(tss)), 2)\n\n     n   Mean     SD Median \n 30.00  53.13  13.15  52.50 \n\n\n\n2.7.1 Langkah 1: Merumuskan Hipotesis – Siapa yang Menanggung Beban Pembuktian?\nAda dua cara merumuskan hipotesis, dan pilihannya bukan sekadar teknis:\n\n\n\n\n\n\n\n\n\nRumusan\n\\(H_0\\)\n\\(H_1\\)\nArtinya\n\n\n\n\nA (praduga patuh)\n\\(\\mu \\le 50\\)\n\\(\\mu &gt; 50\\)\nPerusahaan dianggap patuh sampai ada bukti kuat melanggar\n\n\nB (praduga melanggar)\n\\(\\mu \\ge 50\\)\n\\(\\mu &lt; 50\\)\nPerusahaan harus membuktikan dirinya patuh\n\n\n\n\n\n2.7.2 Langkah 2–4: Menjalankan Kedua Rumusan\n\nknitr::kable(rbind(\n  \"A: H1 mu &gt; 50 (melanggar)\" = uji_z(mean(tss), 50, sigma = 12, n = 30, arah = \"kanan\"),\n  \"B: H1 mu &lt; 50 (patuh)\"     = uji_z(mean(tss), 50, sigma = 12, n = 30, arah = \"kiri\")\n), caption = \"Data yang sama, dua rumusan hipotesis\")\n\n\nData yang sama, dua rumusan hipotesis\n\n\n\n\n\n\n\n\n\n\nz\nz_kritis\np_value\nkeputusan\n\n\n\n\nA: H1 mu &gt; 50 (melanggar)\n1.4286\n1.6449\n0.07655\nGagal menolak H0\n\n\nB: H1 mu &lt; 50 (patuh)\n1.4286\n-1.6449\n0.92340\nGagal menolak H0\n\n\n\n\n\n\n\n2.7.3 Langkah 5: Konsekuensi Kesalahan\n\n\n\n\n\n\n\n\nRumusan\nKesalahan Tipe I\nKesalahan Tipe II\n\n\n\n\nA\nPerusahaan patuh dinyatakan melanggar (sanksi tidak adil)\nPelanggaran lolos (lingkungan dirugikan)\n\n\nB\nPerusahaan melanggar dinyatakan patuh (lingkungan dirugikan)\nPerusahaan patuh gagal membuktikan kepatuhannya\n\n\n\n\n# Power rumusan A untuk mendeteksi pelanggaran nyata sebesar 5 mg/L (mu = 55)\npower_kanan &lt;- function(mu_benar, mu0, sigma, n, alpha = 0.05)\n  1 - pnorm(qnorm(1 - alpha) - (mu_benar - mu0) / (sigma / sqrt(n)))\nround(c(Power_n30 = power_kanan(55, 50, 12, 30), Power_n60 = power_kanan(55, 50, 12, 60)), 3)\n\nPower_n30 Power_n60 \n    0.738     0.943 \n\n\n\n\n2.7.4 Pertanyaan Diskusi dan Jawaban\n1. Apa kesimpulan rumusan A?\nP-value = 0.07655. Pada taraf 5% bukti belum cukup untuk menyatakan rata-rata TSS melebihi 50 mg/L, meskipun rata-rata sampel di atas baku mutu.\n2. Mengapa rumusan B lebih “protektif” terhadap lingkungan?\nPada rumusan B, kesalahan yang dikendalikan ketat (\\(\\alpha = 5\\%\\)) adalah menyatakan patuh padahal melanggar. Beban pembuktian ada pada perusahaan: rata-rata sampel harus cukup jauh di bawah 50 mg/L agar dinyatakan patuh. Pada data ini, rumusan B jelas gagal membuktikan kepatuhan.\n3. Mengapa power penting bagi regulator?\nDengan rumusan A dan \\(n = 30\\), pelanggaran nyata sebesar 5 mg/L hanya terdeteksi sekitar 74% dari waktu. Sisanya lolos. Menambah sampel menjadi 60 menaikkan power menjadi sekitar 94%. Keputusan jumlah sampel pemantauan adalah keputusan tentang seberapa sering pelanggaran boleh lolos.\n4. Apa pelajaran umumnya?\nRumusan \\(H_0\\) menentukan siapa yang diuntungkan oleh keraguan. Pilihan itu harus didasarkan pada konsekuensi kesalahan di dunia nyata, ditetapkan sebelum data dilihat, dan dilaporkan secara terbuka.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#latihan-mandiri",
+    "href": "chapters/bab-2.html#latihan-mandiri",
+    "title": "2  Hypothesis Testing",
+    "section": "2.8 Latihan Mandiri",
+    "text": "2.8 Latihan Mandiri\n\n2.8.1 Latihan Utama: Umur Baterai Ponsel\nKonteks: Produsen mengklaim baterai ponselnya bertahan rata-rata 20 jam pemakaian normal. Lembaga konsumen menguji 40 unit. Dari spesifikasi pengujian standar, \\(\\sigma = 2{,}5\\) jam.\n\nset.seed(3)\numur &lt;- round(rnorm(40, mean = 19.3, sd = 2.5), 1)\nround(c(n = length(umur), Mean = mean(umur), SD = sd(umur)), 3)\n\n     n   Mean     SD \n40.000 19.160  2.086 \n\n\n\nTugas 1: Rumuskan hipotesis\nLembaga konsumen curiga umur baterai kurang dari yang diklaim.\nJawaban: \\(H_0: \\mu \\ge 20\\) jam (klaim benar); \\(H_1: \\mu &lt; 20\\) jam (klaim berlebihan). Uji satu arah kiri.\n\n\nTugas 2: Hitung statistik uji, nilai kritis, dan p-value (\\(\\alpha = 0{,}05\\))\n\nhasil_lat &lt;- uji_z(mean(umur), mu0 = 20, sigma = 2.5, n = 40, arah = \"kiri\")\nhasil_lat\n\n        z z_kritis p_value keputusan\n1 -2.1251  -1.6449 0.01679  Tolak H0\n\n\n\n\nTugas 3: Ambil keputusan dan tuliskan kesimpulan dalam konteks\nJawaban: statistik uji \\(z\\) = -2.1251 dengan p-value 0.01679. Karena p-value kurang dari 0,05, H0 ditolak: terdapat bukti yang cukup bahwa rata-rata umur baterai kurang dari 20 jam seperti yang diklaim.\n\n\nTugas 4: Bagaimana keputusannya jika \\(\\alpha = 0{,}01\\)?\n\nuji_z(mean(umur), mu0 = 20, sigma = 2.5, n = 40, arah = \"kiri\", alpha = 0.01)\n\n        z z_kritis p_value        keputusan\n1 -2.1251  -2.3263 0.01679 Gagal menolak H0\n\n\nJawaban: pada \\(\\alpha = 0{,}01\\) nilai kritisnya -2.326, sehingga keputusannya menjadi Gagal menolak H0. Keputusan dapat berubah menurut \\(\\alpha\\) – itulah sebabnya \\(\\alpha\\) harus ditetapkan sebelum melihat data, dan p-value sebaiknya dilaporkan apa adanya agar pembaca dapat menilai sendiri kekuatan buktinya.\n\n\nTugas 5: Jelaskan kesalahan Tipe I dan II dalam konteks ini\nJawaban: Tipe I – lembaga menyatakan klaim produsen berlebihan padahal baterai sebenarnya bertahan rata-rata 20 jam (merugikan reputasi produsen). Tipe II – lembaga menyatakan tidak ada bukti klaim berlebihan padahal baterai sebenarnya bertahan kurang dari 20 jam (merugikan konsumen).\n\n\nTugas 6 (Tantangan): Power dan ukuran sampel\nHitung power uji ini untuk mendeteksi umur sebenarnya 19 jam, lalu tentukan \\(n\\) agar power-nya 90%.\n\npower_kiri &lt;- function(mu_benar, mu0, sigma, n, alpha = 0.05)\n  pnorm(qnorm(alpha) - (mu_benar - mu0) / (sigma / sqrt(n)))\nround(power_kiri(19, 20, 2.5, 40), 3)\n\n[1] 0.812\n\nceiling(((qnorm(0.95) + qnorm(0.90)) * 2.5 / 1)^2)   # n satu arah, power 90%\n\n[1] 54\n\n\nJawaban: dengan 40 unit, selisih 1 jam terdeteksi sekitar 81% dari waktu. Untuk power 90% dibutuhkan sekitar 54 unit.\n\n\n\n2.8.2 Latihan Tambahan (Self-Check)\nKerjakan soal-soal berikut secara mandiri sebelum melihat kunci jawaban pada komentar kode.\nSoal A. Tuliskan \\(H_0\\) dan \\(H_1\\): (1) Apakah rata-rata waktu respons server berubah dari 200 ms setelah pembaruan? (2) Apakah pelatihan menaikkan rata-rata skor tes di atas 70? (3) Apakah rata-rata kadar gula minuman kurang dari 10 g seperti label?\n\n# Kunci jawaban:\n# (1) H0: mu = 200 vs H1: mu != 200 (dua arah)\n# (2) H0: mu &lt;= 70 vs H1: mu &gt; 70 (kanan)\n# (3) Jika pemeriksa ingin membuktikan label benar: H0: mu &gt;= 10 vs H1: mu &lt; 10 (kiri).\n#     Jika pemeriksa curiga kadar gula melebihi label: H0: mu &lt;= 10 vs H1: mu &gt; 10 (kanan).\n#     Rumusan bergantung pada klaim yang ingin dibuktikan.\n\nSoal B. Uji dua arah menghasilkan \\(z = 1{,}80\\). Hitung p-value dan keputusan pada \\(\\alpha = 0{,}05\\) dan \\(0{,}10\\). Bagaimana jika ujinya satu arah kanan?\n\n# Kunci jawaban:\n2 * (1 - pnorm(1.80))   # 0.0719 -&gt; gagal tolak (0.05), tolak (0.10)\n1 - pnorm(1.80)         # 0.0359 -&gt; tolak pada 0.05 (jika arah kanan ditetapkan SEBELUM melihat data)\n\nSoal C. Seorang analis melaporkan: “p-value = 0,23, jadi terbukti kampanye iklan tidak berpengaruh terhadap penjualan.” Kritik pernyataan ini.\n\n# Kunci jawaban:\n# \"Gagal menolak H0\" bukan bukti H0 benar. P-value 0,23 hanya berarti data tidak memberi bukti\n# yang cukup untuk menyatakan ada pengaruh. Mungkin pengaruhnya kecil dan power uji rendah\n# (sampel kecil). Laporkan selang kepercayaan besar efek untuk melihat rentang pengaruh\n# yang masih masuk akal.\n\nSoal D. Sebuah tim menguji 15 variasi warna tombol terhadap warna lama, masing-masing dengan \\(\\alpha = 0{,}05\\), dan melaporkan satu variasi yang “signifikan” (\\(p = 0{,}03\\)). Berapa peluang setidaknya satu hasil signifikan jika sebenarnya tidak ada variasi yang lebih baik? Apakah temuan itu meyakinkan dengan koreksi Bonferroni?\n\n# Kunci jawaban:\n1 - 0.95^15   # sekitar 0.537 -&gt; lebih dari separuh kemungkinan ada \"temuan\" palsu\n0.05 / 15     # batas Bonferroni = 0.0033; p = 0.03 &gt; 0.0033 -&gt; TIDAK signifikan setelah koreksi",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#kesalahan-umum-dalam-uji-hipotesis",
+    "href": "chapters/bab-2.html#kesalahan-umum-dalam-uji-hipotesis",
+    "title": "2  Hypothesis Testing",
+    "section": "2.9 Kesalahan Umum dalam Uji Hipotesis",
+    "text": "2.9 Kesalahan Umum dalam Uji Hipotesis\n\nMenulis hipotesis tentang statistik sampel (\\(H_0: \\bar{x} = 250\\)) – hipotesis selalu tentang parameter.\nMenaruh kesamaan di \\(H_1\\) – tanda \\(=, \\le, \\ge\\) selalu berada di \\(H_0\\).\nMemilih arah uji setelah melihat data – p-value menjadi tidak sah.\n“Menerima \\(H_0\\)” – yang benar adalah “gagal menolak \\(H_0\\)”; ketiadaan bukti bukan bukti ketiadaan.\nMenafsirkan p-value sebagai peluang \\(H_0\\) benar.\nMenyamakan signifikansi statistik dengan kepentingan praktis – selalu laporkan besar efek dan CI.\nMenetapkan \\(\\alpha\\) setelah melihat p-value agar hasilnya “signifikan”.\nMenguji banyak hipotesis tanpa koreksi – peluang false positive melonjak.\nMengabaikan power – studi dengan sampel kecil sering gagal mendeteksi efek nyata, lalu disimpulkan “tidak ada efek”.\nHanya menulis “tolak \\(H_0\\)” tanpa kesimpulan dalam konteks – pembaca perlu tahu artinya bagi masalah nyata.\nMengabaikan konsekuensi dunia nyata saat merumuskan \\(H_0\\) – rumusan menentukan siapa yang diuntungkan oleh keraguan.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#cheat-sheet-fungsi-r-yang-digunakan",
+    "href": "chapters/bab-2.html#cheat-sheet-fungsi-r-yang-digunakan",
+    "title": "2  Hypothesis Testing",
+    "section": "2.10 Cheat Sheet: Fungsi R yang Digunakan",
+    "text": "2.10 Cheat Sheet: Fungsi R yang Digunakan\n\n\n\n\n\n\n\nFungsi\nKegunaan\n\n\n\n\nqnorm(1 - alpha/2), qnorm(1 - alpha), qnorm(alpha)\nNilai kritis z dua arah, kanan, kiri\n\n\npnorm(z)\n\\(P(Z \\le z)\\); dasar p-value\n\n\n2 * (1 - pnorm(abs(z)))\nP-value dua arah\n\n\n1 - pnorm(z) / pnorm(z)\nP-value satu arah kanan / kiri\n\n\ndnorm(x)\nKurva normal untuk menggambar daerah penolakan\n\n\npolygon()\nMengarsir daerah di bawah kurva\n\n\nmatch.arg(), switch()\nMemilih arah uji dalam fungsi buatan\n\n\nreplicate(B, ...)\nSimulasi kesalahan Tipe I dan power\n\n\np.adjust(p, method = \"bonferroni\")\nKoreksi uji berganda\n\n\nceiling()\nMembulatkan ukuran sampel ke atas\n\n\nifelse(p &lt;= alpha, ...)\nMenuliskan keputusan otomatis",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#glosarium-istilah",
+    "href": "chapters/bab-2.html#glosarium-istilah",
+    "title": "2  Hypothesis Testing",
+    "section": "2.11 Glosarium Istilah",
+    "text": "2.11 Glosarium Istilah\n\n\n\n\n\n\n\nIstilah\nDefinisi Singkat\n\n\n\n\nHipotesis\nPernyataan tentang parameter populasi\n\n\nHipotesis Nol (\\(H_0\\))\nPernyataan “tidak ada efek/perbedaan”; diasumsikan benar selama uji\n\n\nHipotesis Alternatif (\\(H_1\\))\nKlaim yang ingin dibuktikan; diterima bila bukti kuat\n\n\nUji Dua Arah / Satu Arah\nUji dengan daerah penolakan di kedua ekor / satu ekor\n\n\nTingkat Signifikansi (\\(\\alpha\\))\nBatas peluang kesalahan Tipe I\n\n\nStatistik Uji\nUkuran jarak estimasi dari nilai \\(H_0\\) dalam satuan SE\n\n\nNilai Kritis\nBatas daerah penolakan\n\n\nDaerah Penolakan\nRentang nilai statistik uji yang membuat \\(H_0\\) ditolak\n\n\nP-Value\nPeluang hasil seekstrem atau lebih ekstrem dari yang teramati, jika \\(H_0\\) benar\n\n\nTolak \\(H_0\\)\nKeputusan bahwa data memberi bukti cukup melawan \\(H_0\\)\n\n\nGagal Menolak \\(H_0\\)\nKeputusan bahwa bukti belum cukup; bukan pembuktian \\(H_0\\)\n\n\nKesalahan Tipe I\nMenolak \\(H_0\\) yang benar (false positive)\n\n\nKesalahan Tipe II\nGagal menolak \\(H_0\\) yang salah (false negative)\n\n\n\\(\\beta\\)\nPeluang kesalahan Tipe II\n\n\nPower\n\\(1-\\beta\\); peluang mendeteksi efek yang benar-benar ada\n\n\nBesar Efek\nUkuran seberapa besar perbedaan/efek, terlepas dari ukuran sampel\n\n\nSignifikansi Praktis\nApakah besar efek cukup penting di dunia nyata\n\n\nUji Berganda\nMelakukan banyak uji sekaligus sehingga peluang false positive naik\n\n\nKoreksi Bonferroni\nMemakai \\(\\alpha/k\\) untuk setiap dari \\(k\\) uji",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#rangkuman-dan-kesimpulan",
+    "href": "chapters/bab-2.html#rangkuman-dan-kesimpulan",
+    "title": "2  Hypothesis Testing",
+    "section": "2.12 Rangkuman dan Kesimpulan",
+    "text": "2.12 Rangkuman dan Kesimpulan\n\nLogika uji hipotesis sama dengan pengadilan: asumsikan \\(H_0\\) benar, lalu nilai seberapa mengejutkan data; tolak \\(H_0\\) hanya jika bukti kuat.\nHipotesis dinyatakan tentang parameter; \\(H_0\\) selalu memuat kesamaan; arah uji ditentukan dari pertanyaan penelitian sebelum melihat data.\nStatistik uji mengukur jarak estimasi dari \\(H_0\\) dalam satuan SE. Keputusan dapat diambil dengan nilai kritis atau p-value – keduanya setara.\nP-value adalah peluang hasil seekstrem ini jika \\(H_0\\) benar – bukan peluang \\(H_0\\) benar.\nKesalahan Tipe I (\\(\\alpha\\)) dan Tipe II (\\(\\beta\\)) saling tarik-menarik; hanya sampel lebih besar yang dapat mengurangi keduanya sekaligus. Rancang studi dengan power memadai.\nSignifikan secara statistik belum tentu penting secara praktis; laporkan besar efek dan selang kepercayaan, dan waspadai uji berganda.\n\nJembatan ke sesi berikutnya: hari ini kita memakai uji z dengan \\(\\sigma\\) diketahui sebagai kendaraan untuk memahami konsep. Pertemuan 11 membahas situasi yang jauh lebih sering dijumpai – \\(\\sigma\\) tidak diketahui – dengan uji t satu sampel, dua sampel independen, dan berpasangan, beserta uji z dua sampel.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/bab-2.html#interpretasi-pemahaman-pribadi",
+    "href": "chapters/bab-2.html#interpretasi-pemahaman-pribadi",
+    "title": "2  Hypothesis Testing",
+    "section": "2.13 Interpretasi Pemahaman Pribadi",
+    "text": "2.13 Interpretasi Pemahaman Pribadi\n\nUji hipotesis bekerja layaknya sidang pengadilan dengan asas praduga tak bersalah, di mana kita mengasumsikan kondisi awal (\\(H_0\\)) benar sampai bukti dari data sampel cukup kuat untuk menolaknya.\nHipotesis nol (\\(H_0\\)) dan alternatif (\\(H_1\\)) selalu dirumuskan untuk parameter populasi (\\(\\mu\\) atau \\(p\\)), dengan tanda sama dengan (\\(=, \\le, \\ge\\)) wajib berada di \\(H_0\\) serta arah pengujian di \\(H_1\\) (dua arah \\(\\neq\\), kanan \\(&gt;\\), atau kiri \\(&lt;\\)) harus ditetapkan sebelum melihat data.\nTingkat signifikansi (\\(\\alpha\\)) merupakan batas toleransi peluang terjadinya kesalahan dalam menolak \\(H_0\\) yang sebenarnya benar, dan nilai batas ini wajib ditentukan di awal sebelum data dianalisis.\nStatistik uji mengukur seberapa jauh posisi hasil estimasi sampel kita dibandingkan nilai klaim pada \\(H_0\\) dalam satuan standard error.\nP-value adalah peluang memperoleh hasil sampel seekstrem yang teramati apabila \\(H_0\\) diasumsikan benar, bukan peluang bahwa \\(H_0\\) itu sendiri benar.\nKeputusan menolak \\(H_0\\) diambil jika p-value lebih kecil atau sama dengan \\(\\alpha\\) (atau statistik uji masuk ke daerah penolakan), sedangkan jika lebih besar maka keputusannya adalah gagal menolak \\(H_0\\) karena bukti belum cukup kuat, bukan membuktikan \\(H_0\\) benar.\nHasil uji hipotesis dua arah pada taraf signifikansi \\(\\alpha\\) selalu selaras dengan mengecek apakah nilai klaim di \\(H_0\\) berada di luar atau di dalam rentang selang kepercayaan \\((1-\\alpha) \\times 100\\%\\).\nKesalahan Tipe I (\\(\\alpha\\)) terjadi ketika kita menolak \\(H_0\\) yang sesungguhnya benar, sedangkan kesalahan Tipe II (\\(\\beta\\)) terjadi ketika kita gagal menolak \\(H_0\\) yang keliru, dan memperbesar ukuran sampel menjadi satu-satunya cara menekan keduanya sekaligus serta meningkatkan power (\\(1-\\beta\\)).\nHasil yang signifikan secara statistik, terutama pada ukuran sampel yang sangat besar, belum tentu berdampak penting di dunia nyata sehingga besar selisih atau efek tetap perlu dilihat selain p-value.\nMelakukan banyak pengujian sekaligus tanpa koreksi seperti Bonferroni dapat melambungkan peluang munculnya temuan palsu yang terlihat signifikan hanya karena kebetulan (p-hacking).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hypothesis Testing</span>"
     ]
   }
 ]
